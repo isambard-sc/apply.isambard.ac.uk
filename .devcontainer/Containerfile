@@ -1,0 +1,21 @@
+# SPDX-FileCopyrightText: © 2025 University of Bristol
+# SPDX-License-Identifier: MIT
+ARG TAG=latest
+FROM docker.io/squidfunk/mkdocs-material:${TAG}
+
+# Upgrade Alpine packages 
+RUN apk upgrade --no-cache 
+
+# Install bash and bash-completion for improved shell experience
+RUN apk add --no-cache bash bash-completion
+
+# ${containerEnv:HOME} does not seem to be reliably available for use in 
+# devcontainer.json, so explicitly set an alternative variable containing the
+# container user's home directory
+ENV CONTAINER_USER="author"
+ENV CONTAINER_USER_HOME="/home/${CONTAINER_USER}"
+
+RUN adduser -h "${CONTAINER_USER_HOME}" -D -s /bin/bash "${CONTAINER_USER}"
+
+USER ${CONTAINER_USER}
+

@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: © 2024 University of Bristol
+# SPDX-License-Identifier: CC0-1.0
+name: isambard-apply-docs-env
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python >=3.12
+
+  - pip
+  - pip:
+    - -r requirements.txt
+    - -r requirements-dev.txt

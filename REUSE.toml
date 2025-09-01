@@ -1,0 +1,58 @@
+# SPDX-FileCopyrightText: © 2024 University of Bristol
+# SPDX-License-Identifier: CC0-1.0
+
+version = 1
+
+[[annotations]]
+path = "docs/CNAME"
+SPDX-FileCopyrightText = "© 2024 University of Bristol"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+# Images
+path = [
+  "docs/user-documentation/images/**/*.png",
+  "docs/user-documentation/getting_started/images/getting_started/*.png",
+  "docs/user-documentation/guides/images/**/*.png",
+  "docs/user-documentation/guides/containers/images/*.png",
+  "docs/user-documentation/tutorials/interactive-ml/*.png",
+  "docs/user-documentation/tutorials/distributed-training/*.png",
+  "docs/user-documentation/tutorials/images/setup/*.png",
+]
+SPDX-FileCopyrightText = "© 2024 University of Bristol"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+# Code snippets
+path = [
+  "docs/user-documentation/guides/example-data/slurm/*",
+  "docs/user-documentation/applications/alphafold/example-data/*",
+  "docs/user-documentation/guides/containers/example-data/*",
+  "docs/user-documentation/guides/example-data/jupyter/*",
+  "docs/user-documentation/guides/example-data/vscode/*",
+  "docs/user-documentation/tutorials/distributed-training/*",
+]
+# "closest" allows the a default license + copyright to be set in REUSE.toml
+# which is overridden if a REUSE comment header or .license file is provided
+precedence = "closest"
+SPDX-FileCopyrightText = "© 2024 University of Bristol"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+# Logos
+path = [
+  "docs/assets/BriCS_logo_colour*",
+  "docs/assets/favicon*",
+]
+SPDX-FileCopyrightText = "© 2024 University of Bristol"
+SPDX-License-Identifier = "LicenseRef-ARR"
+
+[[annotations]]
+path = "docs/user-documentation/tutorials/interactive-ml/isambot-tutorial.ipynb"
+SPDX-FileCopyrightText = "© 2024 University of Bristol"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "docs/events/isambard_day_2025/Isambard-Day-2025-Programme.pdf"
+SPDX-FileCopyrightText = "© 2024 University of Bristol"
+SPDX-License-Identifier = "CC-BY-SA-4.0"

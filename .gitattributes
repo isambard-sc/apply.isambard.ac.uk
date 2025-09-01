@@ -1,0 +1,4 @@
+# SPDX-FileCopyrightText: © 2024 University of Bristol
+# SPDX-License-Identifier: CC0-1.0
+# Auto detect text files and perform LF normalization
+* text=auto

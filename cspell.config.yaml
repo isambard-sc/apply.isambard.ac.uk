@@ -1,0 +1,101 @@
+# SPDX-FileCopyrightText: © 2024 University of Bristol
+# SPDX-License-Identifier: CC0-1.0
+
+$schema: https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - aarch
+  - AIRR
+  - AISI
+  - alphafold
+  - Bdynamic
+  - BLAS
+  - brics
+  - BriCS
+  - bricsonly
+  - Containerfile
+  - craype
+  - CRAYXT
+  - cuda
+  - cudatoolkit
+  - dialog
+  - dtags
+  - eduroam
+  - fontawesome
+  - gfortran
+  - GODEBUG
+  - gres
+  - Helpdesk
+  - ipykernel
+  - Isambard
+  - isambot
+  - jobid
+  - jpserver
+  - jupyterhub
+  - jupyterlab
+  - kernelspec
+  - LAPACK
+  - lgfortran
+  - libfabric
+  - libsci
+  - lmpi
+  - lmpifort
+  - LOCALDIR
+  - lpthread
+  - lsci
+  - MALLOC
+  - markdownlint
+  - memhooks
+  - miniforge
+  - mkdocs
+  - NCCL
+  - nccuk
+  - NERSC
+  - nodefaults
+  - NODELIST
+  - ntasks
+  - nvcr
+  - nvme
+  - Numpy
+  - PROJECTDIR
+  - pymdownx
+  - pytorch
+  - REFEDS
+  - sacct
+  - salloc
+  - sbatch
+  - scancel
+  - SCRATCHDIR
+  - slurm
+  - Spack
+  - sprhbm
+  - squeue
+  - srun
+  - superchip
+  - superchips
+  - superfences
+  - tasklist
+  - tensorflow
+  - TMPDIR
+  - tmpfs
+  - torch
+  - torchvision
+  - torchaudio
+  - TRESPA
+  - TRESPU
+  - twemoji
+  - userenv
+  - venv
+  - venvs
+  - VLLM
+  - Waldur
+  - walltime
+  - winget
+  - workq
+  - Zammad
+ignoreWords: []
+import: []
+language: en-GB

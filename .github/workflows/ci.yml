@@ -1,0 +1,30 @@
+# SPDX-FileCopyrightText: © 2024 University of Bristol
+# SPDX-License-Identifier: MIT
+
+name: ci 
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    uses: ./.github/workflows/check.yml
+    permissions:
+      contents: read
+  deploy:
+    runs-on: ubuntu-latest
+    needs: check
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,43 @@
+/*
+SPDX-FileCopyrightText: © 2024 University of Bristol
+SPDX-License-Identifier: MIT
+*/
+
+/* University Red */
+:root {
+    --md-primary-fg-color:        #002f5f;
+}
+
+/*
+  Underline links for colour blind accessibility and restore link colour to
+  colour from default theme (link colour is determined by --md-primary-fg-color)
+*/
+.md-typeset a {
+    color: #4051b5;
+    text-decoration: underline;
+}
+
+/*
+  Disable underlining of automatic anchor links created from content tab 
+  labels (without this these links inherit the text-decoration property from
+  the .md-typeset a block)
+*/
+.tabbed-labels a {
+    text-decoration: none;
+}
+
+/*
+  Disable underlining of links with md-button class, since these already are
+  clearly indicated as links by the button user interface element
+*/
+a.md-button {
+    text-decoration: none;
+}
+
+/*
+  Make prompt in code blocks not user selectable to avoid errors from copying prompt text 
+*/
+div.highlight span.gp {
+    user-select: none;
+    -webkit-user-select: none;
+}

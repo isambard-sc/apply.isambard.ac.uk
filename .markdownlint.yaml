@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: © 2024 University of Bristol
+# SPDX-License-Identifier: CC0-1.0
+
+default: true
+# Indent unordered sub-lists by 4 spaces, to be consistent with behaviour of
+# Python-Markdown parser
+MD007:
+  indent: 4
+MD013: false
+MD014: false
+
+# Allow duplicate headings that are not siblings, different sections can have
+# identical subheadings
+MD024:
+  siblings_only: true
+
+# Allow inline HTML, e.g. for e.g. MkDocs Material grids
+# https://squidfunk.github.io/mkdocs-material/reference/grids/
+MD033: false
+
+# Disable checking code block style consistency as markdownlint detects indented
+# blocks in Python-Markdown extensions as code blocks
+MD046: false
+
+# Disable checking for link/image reference definitions since markdownlint
+# seems not to be able to identify reference links inside MyST-MD directives
+# or Python-Markdown extensions which use indented blocks (e.g. admonition)
+MD053: false
+

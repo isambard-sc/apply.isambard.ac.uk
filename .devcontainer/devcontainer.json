@@ -1,0 +1,61 @@
+// SPDX-FileCopyrightText: © 2025 University of Bristol
+// SPDX-License-Identifier: MIT
+{
+  "name": "apply.isambard.ac.uk",
+  "build": {
+    "dockerfile": "Containerfile",
+    "args": {
+      "TAG": "latest"
+    }
+  },
+  "forwardPorts": [
+    8000
+  ],
+  "portsAttributes": {
+    "8000": {
+      "label": "mkdocs serve",
+      "onAutoForward": "notify",
+      "requireLocalPort": true
+    }
+  },
+  "workspaceMount": "src=${localWorkspaceFolder}/,dst=/docs,type=bind",
+  "workspaceFolder": "/docs",
+  "remoteEnv": {
+    "PATH": "${containerEnv:PATH}:${containerEnv:CONTAINER_USER_HOME}/.local/bin"
+  },
+  "postCreateCommand": [
+    "python",
+    "-m",
+    "pip",
+    "install",
+    "--no-cache-dir",
+    "--user",
+    "-r",
+    "requirements.txt",
+    "-r",
+    "requirements-dev.txt"
+  ],
+  "postAttachCommand": [
+    "mkdocs",
+    "serve",
+    "--clean",
+    "--strict",
+    "--dev-addr=127.0.0.1:8000"
+  ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "DavidAnson.vscode-markdownlint",
+        "streetsidesoftware.code-spell-checker"
+      ],
+      "settings": {
+        "terminal.integrated.profiles.linux": {
+          "bash": {
+            "path": "/bin/bash"
+          }
+        },
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  }
+}

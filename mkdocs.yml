@@ -1,0 +1,52 @@
+# SPDX-FileCopyrightText: © 2024 University of Bristol
+# SPDX-License-Identifier: CC-BY-SA-4.0
+site_name: How to apply to use Bristol Centre for Supercomputing Services
+site_url: https://apply.isambard.ac.uk
+theme:
+    name: material
+    custom_dir: overrides
+    palette:
+        primary: custom
+    logo: assets/BriCS_logo_colour_reverse.svg
+    favicon: assets/favicon.png
+    features:
+        - navigation.indexes
+        - content.tabs.link
+nav:
+    - "index.md"
+    - Bristol:
+          - "bristol/index.md"
+    - UKRI:
+          - "ukri/index.md"
+extra_css:
+    - stylesheets/extra.css
+markdown_extensions:
+    - toc:
+          permalink: true
+    - attr_list
+    - md_in_html
+    - tables
+    - def_list
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - footnotes
+    - pymdownx.tasklist:
+          custom_checkbox: true
+    - pymdownx.emoji:
+          emoji_index: !!python/name:material.extensions.emoji.twemoji
+          emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - pymdownx.tabbed:
+          alternate_style: true
+          combine_header_slug: true
+          slugify: !!python/object/apply:pymdownx.slugs.slugify
+              kwds:
+                  case: fold
+    - pymdownx.snippets:
+          base_path: !relative
+          check_paths: true
+    - pymdownx.keys
+
+plugins:
+    - open-in-new-tab
+    - search

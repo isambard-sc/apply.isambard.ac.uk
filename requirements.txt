@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: © 2024 University of Bristol
+# SPDX-License-Identifier: CC0-1.0
+mkdocs-material
+mkdocs-open-in-new-tab
+mkdocs-exclude-search
+./extra_python

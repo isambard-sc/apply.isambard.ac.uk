@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: © 2024 University of Bristol
+# SPDX-License-Identifier: MIT
+
+[project]
+name = "isambard_apply"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "pygments>=2.18",
+]
+
+[project.entry-points."pygments.lexers"]
+lexer = "lexers:IsambardBashSessionLexer"
