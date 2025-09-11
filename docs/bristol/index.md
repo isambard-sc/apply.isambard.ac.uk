@@ -5,7 +5,7 @@ SPDX-FileCopyrightText: © 2025 University of Bristol
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-Only members of staff of the University of Bristol can apply for time via these routes.
+Only members of academic staff of the University of Bristol can apply for time via these routes.
 
 ## Research use
 
@@ -139,7 +139,7 @@ Your application will be assessed by the allocation committee on a rolling basis
 [brics-accounting]: https://docs.isambard.ac.uk/user-documentation/guides/accounting/
 [brics-support]:  mailto:brics-enquiries@bristol.ac.uk/
 [compliance-assessment]: https://compliance.isambard.ac.uk/
-[contact-drei]: https://www.bristol.ac.uk/research-enterprise-innovation/
-[project-team-form]: https://allocate-api.isambard.ac.uk/api/media/aeac0b7814704777a9b69b39a0db4a8f/
+[contact-drei]: hmailto:research-compliance@bristol.ac.uk
+[project-team-form]: https://allocate-api.isambard.ac.uk/api/media/e9a00e43dbbe486aab2c172d52ff1e79/
 [allocate-isambard]: https://allocate.isambard.ac.uk/
 [call-page]: https://allocate.isambard.ac.uk/calls-for-proposals/
