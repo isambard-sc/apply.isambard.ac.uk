@@ -11,6 +11,7 @@ SPDX-License-Identifier = "CC0-1.0"
 [[annotations]]
 # Images
 path = [
+  "docs/bristol/images/**/*.png",
   "docs/user-documentation/images/**/*.png",
   "docs/user-documentation/getting_started/images/getting_started/*.png",
   "docs/user-documentation/guides/images/**/*.png",
