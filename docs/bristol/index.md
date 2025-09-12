@@ -40,7 +40,7 @@ More instructions on how to apply for time for teaching will be published soon.
 
 ## How to complete your application
 
-Navigate to [allocate.isambard.ac.uk][allocate-isambard] and click "Sign in with keycloak".
+Navigate to [allocate.isambard.ac.uk][allocate-isambard] and click "Click here to login".
 
 ![Screenshot of BriCS homepage](images/sign_in.png){ style="width:100%;max-width:600px;height:auto"}
 
