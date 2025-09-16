@@ -18,6 +18,7 @@ In both cases, applications are made via [AIRRPortal][airrportal]. This is a rol
 
 The periodic UKRI Tier 2 HPC calls are open to _UK research organisation eligible for UKRI funding_. These calls are usually released each Spring and Autumn. Past calls provide further information and methods for receiving updates:
 
+* [Autumn 2025 call][i3-ukri-autumn25-call] (closes 6th November 2025)
 * [<span style="text-decoration: line-through;">Spring 2025 call </span>][i3-ukri-spring25-call]  (closed May-2025)
 * [<span style="text-decoration: line-through;">Autumn 2024 call </span>][i3-ukri-autumn24-call]  (closed Nov-2024)
 
@@ -30,3 +31,4 @@ The periodic UKRI Tier 2 HPC calls are open to _UK research organisation eligibl
 [airrportal]:               https://portal-airr.isambard.ac.uk/login/
 [i3-ukri-autumn24-call]:    https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2024/
 [i3-ukri-spring25-call]:    https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-spring-2025/
+[i3-ukri-autumn25-call]:    https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2025/
