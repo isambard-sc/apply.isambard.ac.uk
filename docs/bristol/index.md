@@ -12,7 +12,9 @@ Only members of academic staff of the University of Bristol can apply for time v
 
     ![Screenshot of completed compliance assessment form](images/compliance_passed.png){ style="width:100%;max-width:600px;height:auto"}
 
-    If you see any message in red, e.g. asking you to contact your research office, then you **must** email [DREI][contact-drei] to complete a more detailed compliance assessment **before** submitting your application. [Email DREI][contact-drei] a copy of your completed Compliance Assessment form. If compliance is passed, then you must attach to your application a PDF copy of the email you receive from DREI confirming that compliance has been passed.
+    If you see any message in red, e.g. asking you to contact your research office, then you **must** email the [Research Compliance Team][contact-drei] to complete a more detailed compliance assessment **before** submitting your application. If compliance is passed, then you must attach to your application a PDF copy of the email you receive from the Research Compliance Team confirming that compliance has been passed.
+
+    In either case, you must [email the Research Compliance Team][contact-drei] a copy of your completed Compliance Assessment form together with details of which application this is, e.g. Isambard AI or 3. All passed compliance applications need to be filed centrally.
 
 ## Research use
 
@@ -36,7 +38,7 @@ To complete your application, you will need to provide:
 - You need to check a checkbox to confirm that your project is non-commercial / research only. If your project is commercial, you should seek advice from [BriCS support][brics-support]. Note, projects that are funded by commercial entities, but which are for research use only and conducted by Bristol-based PhD students or PDRAs are considered non-commercial.
 - You need to mark whether or not the project involves confidential, sensitive or GDPR-protected information. If this is the case, then you should seek advice from [BriCS support][brics-support].
 - You then need to upload two completed forms:
-    - A [completed Compliance Assessment form][compliance-assessment]. Navigate to [the link][compliance-assessment], fill in the form, and then download the completed form as a PDF. Follow the instructions in the PDF before continuing. For example, if you see "Please download and save this PDF and upload it with your research application", then you can continue to upload this form with your application. However, **if the form asks you to contact your research office, then you need to get in touch with [DREI][contact-drei] to complete a more detailed compliance assessment, which you would then upload with your application**.
+    - A [completed Compliance Assessment form][compliance-assessment]. Navigate to [the link][compliance-assessment], fill in the form, and then download the completed form as a PDF. Follow the instructions in the PDF before continuing. For example, if you see "Please download and save this PDF and upload it with your research application", then you can continue to upload this form with your application. However, **if the form asks you to contact your research office, then you need to get in touch with the [Research Compliance Team][contact-drei] to complete a more detailed compliance assessment, which you would then upload with your application**. Note in any case, you will also need to email the [Research Compliance Team][contact-drei] a copy of your completed Compliance Assessment form together with details of which application this is, e.g. Isambard AI or 3.
     - A [completed Project Team Information form][project-team-form]. Download the form from [the link][project-team-form], fill in the form, and then upload the completed form with your application.
 
 With these details, you can complete your application at [allocate.isambard.ac.uk][allocate-isambard]. More detailed instructions on how to use the allocation system are [provided below](#how-to-complete-your-application).
@@ -93,7 +95,7 @@ You can click the "Save as draft" button at any time to save your progress.
 
 Next, you need to upload the two forms that you completed earlier:
 
-- A [completed Compliance Assessment form][compliance-assessment]. Navigate to [the link][compliance-assessment], fill in the form, and then download the completed form as a PDF. Follow the instructions in the PDF before continuing. For example, if you see "Please download and save this PDF and upload it with your research application", then you can continue to upload this form with your application. However, **if the form asks you to contact your research office, then you need to get in touch with [DREI][contact-drei] to complete a more detailed compliance assessment, which you would then upload with your application**.
+- A [completed Compliance Assessment form][compliance-assessment]. Navigate to [the link][compliance-assessment], fill in the form, and then download the completed form as a PDF. Follow the instructions in the PDF before continuing. For example, if you see "Please download and save this PDF and upload it with your research application", then you can continue to upload this form with your application. However, **if the form asks you to contact your research office, then you need to get in touch with the [Research Compliance Team][contact-drei] to complete a more detailed compliance assessment, which you would then upload with your application**. Note in any case, you will also need to email the [Research Compliance Team][contact-drei] a copy of your completed Compliance Assessment form together with details of which application this is, e.g. Isambard AI or 3.
 - A [completed Project Team Information form][project-team-form]. Download the form from [the link][project-team-form], fill in the form, and then upload the completed form with your application.
 
 Do this by clicking on the "Click to upload" button.
@@ -146,7 +148,7 @@ Your application will be assessed by the allocation committee on a rolling basis
 [brics-accounting]: https://docs.isambard.ac.uk/user-documentation/guides/accounting/
 [brics-support]:  mailto:brics-enquiries@bristol.ac.uk/
 [compliance-assessment]: https://compliance.isambard.ac.uk/
-[contact-drei]: mailto:jacqueline.chernys@bristol.ac.uk
+[contact-drei]: mailto:research-compliance@bristol.ac.uk
 [project-team-form]: https://allocate-api.isambard.ac.uk/api/media/e9a00e43dbbe486aab2c172d52ff1e79/
 [allocate-isambard]: https://allocate.isambard.ac.uk/
 [call-page]: https://allocate.isambard.ac.uk/calls-for-proposals/
