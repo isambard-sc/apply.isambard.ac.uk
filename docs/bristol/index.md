@@ -18,9 +18,11 @@ Only members of academic staff of the University of Bristol can apply for time v
 
 ## Research use
 
-You can apply for time via the [University of Bristol rolling call][uob-rolling-call]. This is a rolling call, with applications assessed and awarded within a week of submission.
+You can apply for time via the [University of Bristol rolling call][uob-rolling-call]. This is a rolling call. In most cases, applications will be assessed and awarded within a week of submission.
 
-Applications are for a fixed duration of 365 days, and you can apply to extend your project for a further 365 days during its last month if you need more time. Applications are also for default allocation of node hours on the BriCS services requested. You can apply for an additional allocation of node hours once you have consumed more than 90% of your default allocation. Full details of how accounting works on BriCS services are provided in the [BriCS accounting page][brics-accounting].
+Applications are for a fixed duration of 365 days, and you can apply to extend your project for a further 365 days during its last month if you need more time. Applications are also for default allocations of node hours on the BriCS services requested. You can apply for additional allocations of node hours once you have consumed more than 90% of your default allocation. Please contact [BriCS support][brics-support] if would like to extend your project or request additional allocations. The expectation is that up to five additional allocations will be granted per year of a project, but this will depend on the availability of resources. Requests for more than five additional allocations will be considered on a case-by-case basis by the [HPC Allocation and Compliance Committee][hacc]. Equally, the expectation is that requests for extension by an additional year will also be granted, subject to the project still being active and work still being conducted by Bristol-based researchers. In most cases, requests for extensions and additional allocations will be assessed and awarded within a week of submission.
+
+Full details of how accounting works on BriCS services are provided in the [BriCS accounting page][brics-accounting].
 
 Currently, the values of the Default and Additional allocations on the different services are:
 
@@ -142,13 +144,14 @@ Note - you should not change any settings in the "Project team" section of the f
 
 Note also that you cannot change any details of your application after submission. If you need to change something, please contact [BriCS support][brics-support].
 
-Your application will be assessed by the allocation committee on a rolling basis, in a maximum of one week from submission. If awarded, your project will be created immediately, and you will receive an email inviting you to join the project. This will take you to a project management page, on which you can invite other members of your team to join your project. All members of a team will be able to consume the node hours awarded to your project, but only you, as the project lead, will be able to invite and remove project members.
+Your application will be assessed by the [HPC Allocation and Compliance Committee][hacc] on a rolling basis. This will normally be within one week of project submission. If awarded, your project will be created immediately, and you will receive an email inviting you to join the project. This will take you to a project management page, on which you can invite other members of your team to join your project. All members of a team will be able to consume the node hours awarded to your project, but only you, as the project lead, will be able to invite and remove project members.
 
 [uob-rolling-call]: https://allocate.isambard.ac.uk/calls/a597f0c56d6649848cdaee694a2f550c/
 [brics-accounting]: https://docs.isambard.ac.uk/user-documentation/guides/accounting/
-[brics-support]:  mailto:brics-enquiries@bristol.ac.uk/
+[brics-support]:  mailto:brics-support@bristol.ac.uk/
 [compliance-assessment]: https://compliance.isambard.ac.uk/
 [contact-drei]: mailto:research-compliance@bristol.ac.uk
 [project-team-form]: https://allocate-api.isambard.ac.uk/api/media/e9a00e43dbbe486aab2c172d52ff1e79/
 [allocate-isambard]: https://allocate.isambard.ac.uk/
 [call-page]: https://allocate.isambard.ac.uk/calls-for-proposals/
+[hacc]: https://uob.sharepoint.com/sites/dri/SitePages/HACC.aspx
