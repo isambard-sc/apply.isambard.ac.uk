@@ -7,12 +7,13 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ## Isambard-AI
 
-UKRI provide access via the [AI Research Resource (AIRR) call][iai-airr-call]. There are two options:
+UKRI provide access via the [AI Research Resource (AIRR) call][iai-airr-call]. There are three options:
 
-* [AIRR Gateway route][iai-airr-gateway], offering up to 10,000 GPU hours, designed for researchers from academia, industry, or other UK organisations
-* [AIRR Rapid Access route][iai-airr-rapid], offering up to 20,000 GPU hours, is open to UK-registered micro, small and medium organisations
+* [AIRR Gateway route][iai-airr-gateway], offering up to 10,000 GPU hours, for up to 3 months, designed for researchers from academia, industry, or other UK organisations
+* [AIRR Rapid Access route][iai-airr-rapid], offering up to 20,000 GPU hours, for up to 3 months, is open to UK-registered micro, small and medium organisations
+* [AIRR Innovator route][iai-airr-innovator], offering between 50,000-150,000 GPU hours, for up to 6 months, open to anyone. The Innovator route is designed to support longer, larger projects, ideally building on initial work done via the Gateway or Rapid Access routes.
 
-In both cases, applications are made via [AIRRPortal][airrportal]. This is a rolling call, with applications assessed and awarded within a month of submission.
+Applications are made via [AIRRPortal][airrportal]. This is a rolling call, with applications assessed and awarded within a month of submission.
 
 ## Isambard 3
 
@@ -28,6 +29,7 @@ The periodic UKRI Tier 2 HPC calls are open to _UK research organisation eligibl
 [iai-airr-call]:            https://www.gov.uk/government/publications/ai-research-resource
 [iai-airr-gateway]:         https://www.gov.uk/government/publications/ai-research-resource/airr-gateway-route-ukri-guidance
 [iai-airr-rapid]:           https://www.gov.uk/government/publications/ai-research-resource/airr-rapid-access-route-ukri-guidance
+[iai-airr-innovator]:       https://www.gov.uk/government/publications/ai-research-resource/airr-innovator-route-ukri-guidance
 [airrportal]:               https://portal-airr.isambard.ac.uk/login/
 [i3-ukri-autumn24-call]:    https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-autumn-2024/
 [i3-ukri-spring25-call]:    https://www.ukri.org/opportunity/access-to-high-performance-computing-facilities-spring-2025/
