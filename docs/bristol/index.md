@@ -71,15 +71,15 @@ Next, go to the [Calls for Proposals][call-page] page.
 
 Click on the call you wish to apply to - for example, the [University of Bristol Rolling Call][uob-rolling-call].
 
-![Screenshot showing call page](images/call.png){ style="width:100%;max-width:600px;height:auto"}
+![Screenshot showing call page](images/call2.png){ style="width:100%;max-width:600px;height:auto"}
 
 Click on "Apply to round" when you are ready to apply. This will open up a dialog box in which you can type in the name of your project.
 
-![Screenshot showing Apply to round dialog](images/apply.png){ style="width:100%;max-width:600px;height:auto"}
+![Screenshot showing Apply to round dialog](images/apply2.png){ style="width:100%;max-width:600px;height:auto"}
 
 Click the "Create" button to create your application. This will take you to your application page.
 
-![Screenshot showing application page](images/application.png){ style="width:100%;max-width:600px;height:auto"}
+![Screenshot showing application page](images/application2.png){ style="width:100%;max-width:600px;height:auto"}
 
 Fill in the details requested, i.e.
 
@@ -89,7 +89,7 @@ Fill in the details requested, i.e.
 - You need to check a checkbox to confirm that your project is non-commercial / research only. If your project is commercial, you should seek advice from [BriCS support][brics-support]. Note, projects that are funded by commercial entities, but which are for research use only and conducted by Bristol-based PhD students or PDRAs are considered non-commercial.
 - You need to mark whether or not the project involves confidential, sensitive or GDPR-protected information. If this is the case, then you should seek advice from [BriCS support][brics-support].
 
-![Screenshot showing completed application page](images/application_details.png){ style="width:100%;max-width:600px;height:auto"}
+![Screenshot showing completed application page](images/application_details2.png){ style="width:100%;max-width:600px;height:auto"}
 
 Note that the project duration is fixed at 365 days. You will be able to apply to extend your project during the its last month if you need more time.
 
@@ -102,23 +102,23 @@ Next, you need to upload the two forms that you completed earlier:
 
 Do this by clicking on the "Click to upload" button...
 
-![Screenshot showing upload button](images/upload.png){ style="width:100%;max-width:600px;height:auto"}
+![Screenshot showing upload button](images/upload2.png){ style="width:100%;max-width:600px;height:auto"}
 
 ...and then choosing the file you wish to upload from your computer. It will be uploaded automatically.
 
 The file will be listed once the upload is complete.
 
-![Screenshot showing successful upload](images/upload_file.png){ style="width:100%;max-width:600px;height:auto"}
+![Screenshot showing successful upload](images/upload_file2.png){ style="width:100%;max-width:600px;height:auto"}
 
 Note that you can delete the file by clicking on the trash can icon next to the file name.
 
 Make sure that you have uploaded both files before continuing with your application.
 
-![Screenshot showing both files uploaded](images/necessary_files.png){ style="width:100%;max-width:600px;height:auto"}
+![Screenshot showing both files uploaded](images/necessary_files2.png){ style="width:100%;max-width:600px;height:auto"}
 
 Next, choose which BriCS service(s) you wish to use by checking the relevant boxes in the "Resources" section of the form.
 
-![Screenshot showing Add resource button](images/resource.png){ style="width:100%;max-width:600px;height:auto"}
+![Screenshot showing Add resource button](images/resource2.png){ style="width:100%;max-width:600px;height:auto"}
 
 Then click the "Save" button to save your choice.
 
