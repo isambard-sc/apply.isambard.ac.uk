@@ -83,7 +83,7 @@ Click the "Create" button to create your application. This will take you to your
 
 Fill in the details requested, i.e.
 
-- A project name - this should be a short name that you will use to identify your project
+- A project title - this should be a title that you will use to identify your project
 - A project summary - this should be a brief (2-3 paragraph) summary of your project. This will be made visible to other users of BriCS services.
 - A project description - this should be a short (3-4 paragraph) description of your project. This does not need to be a full proposal - just a brief description that will help the allocation committee understand what the time on BriCS services will be used for.
 - You need to check a checkbox to confirm that your project is non-commercial / research only. If your project is commercial, you should seek advice from [BriCS support][brics-support]. Note, projects that are funded by commercial entities, but which are for research use only and conducted by Bristol-based PhD students or PDRAs are considered non-commercial.
@@ -93,58 +93,82 @@ Fill in the details requested, i.e.
 
 Note that the project duration is fixed at 365 days. You will be able to apply to extend your project during the its last month if you need more time.
 
-You can click the "Save as draft" button at any time to save your progress.
+You can click the "Save as draft" button at any time to save your progress, and "Delete" if you want to delete the application and start again.
 
 Next, you need to upload the two forms that you completed earlier:
 
 - A [completed Compliance Assessment form][compliance-assessment]. Navigate to [the link][compliance-assessment], fill in the form, and then download the completed form as a PDF. Follow the instructions in the PDF before continuing. For example, if you see "Please download and save this PDF and upload it with your research application", then you can continue to upload this form with your application. However, **if the form asks you to contact your research office, then you need to get in touch with the [Research Compliance Team][contact-drei] to complete a more detailed compliance assessment, which you would then upload with your application**. Note in any case, you will also need to email the [Research Compliance Team][contact-drei] a copy of your completed Compliance Assessment form together with details of which application this is, e.g. Isambard AI or 3.
 - A [completed Project Team Information form][project-team-form]. Download the form from [the link][project-team-form], fill in the form, and then upload the completed form with your application.
 
-Do this by clicking on the "Click to upload" button.
+Do this by clicking on the "Click to upload" button...
 
 ![Screenshot showing upload button](images/upload.png){ style="width:100%;max-width:600px;height:auto"}
 
-Click on the "Save as draft" after you have chosen each file to actually upload it with your application.
+...and then choosing the file you wish to upload from your computer. It will be uploaded automatically.
 
-![Screenshot showing uploaded files](images/upload_file.png){ style="width:100%;max-width:600px;height:auto"}
+The file will be listed once the upload is complete.
 
-You will know that the file has been successfully uploaded when you see the icon next to the filename change to a "download" icon.
+![Screenshot showing successful upload](images/upload_file.png){ style="width:100%;max-width:600px;height:auto"}
 
-![Screenshot showing successful upload](images/uploaded_file.png){ style="width:100%;max-width:600px;height:auto"}
-
-Note that you cannot remove or change a file after it has been uploaded. If needed, upload a new version of the file, calling it something different (e.g. "isambard-compliance2.pdf").
+Note that you can delete the file by clicking on the trash can icon next to the file name.
 
 Make sure that you have uploaded both files before continuing with your application.
 
 ![Screenshot showing both files uploaded](images/necessary_files.png){ style="width:100%;max-width:600px;height:auto"}
 
-Next, choose which BriCS services you wish to apply for time on by clicking on the "Add resource" button.
+Next, choose which BriCS service(s) you wish to use by checking the relevant boxes in the "Resources" section of the form.
 
 ![Screenshot showing Add resource button](images/resource.png){ style="width:100%;max-width:600px;height:auto"}
 
-This will open a dialog box in which you can choose which resource you want to add.
+Then click the "Save" button to save your choice.
 
-![Screenshot showing Add resource dialog](images/offering.png){ style="width:100%;max-width:600px;height:auto"}
+Now - optionally - you can provide further information about who you want to add to your project by completing the "Project team" section.
 
-Choose the service that you wish to add. Note that you can repeat these steps multiple times to add multiple services to your application.
+![Screenshot showing the (redacted) Project team section](images/team.png){ style="width:100%;max-width:600px;height:auto"}
 
-![Screenshot showing added resource](images/choose_offering.png){ style="width:100%;max-width:600px;height:auto"}
+You will be listed as the "Proposal Lead" automatically, and cannot remove yourself from this role. However, you can add other team members in any of the following roles:
 
-Click "Next". This will open up a dialog box in which you can configure the request. There is nothing configurable here, as all allocations are for a default number of node hours.
+1. Proposal Lead - this is someone who has full power over the proposal, and will also have full power over any project that is awarded if this proposal is successful. They can edit everything, can invite other people in any role, and can also submit the proposal. If awarded, they will become a "Project Lead" or "PI" on the project.
 
-![Screenshot showing Configure request dialog](images/config_offering.png){ style="width:100%;max-width:600px;height:auto"}
+2. Proposal Co-Lead - this is someone can see the proposal but cannot edit it. They will be invited onto any project that is awarded if this proposal is successful. They will join the project as a "Project Co-Lead" or "Co-I".
 
-Click the "Create" button to add the service to your application. Feel free to add as many or few BriCS services to your application as you need.
+3. Proposal Member - this is a member of the proposal, i.e. representing researchers who will be working on the project if it is awarded. They can see the proposal but cannot edit it. They will be invited onto any project that is awarded if this proposal is successful. They will join the project as a "Project Member" or "Researcher".
 
-![Screenshot showing added resource to application](images/finished_form.png){ style="width:100%;max-width:600px;height:auto"}
+To add a team member, click the "Add" drop-down and choose either to invite a team member by email, or to directly add the team member.
+
+![Screenshot showing Add team member drop-down](images/invite.png){ style="width:100%;max-width:600px;height:auto"}
+
+The easiest route is to use the "Add member" option. This will open this dialog box:
+
+![Screenshot showing Add team member dialog](images/add_member.png){ style="width:100%;max-width:600px;height:auto"}
+
+Click the "User" box and then click on "+ Create User".
+
+![Screenshot showing Create User option](images/click_create_user.png){ style="width:100%;max-width:600px;height:auto"}
+
+This will open another dialog box into which you can add the invitee's details (email, first name and last name).
+
+![Screenshot showing Create User dialog](images/create_user.png){ style="width:100%;max-width:600px;height:auto"}
+
+Click "Create" to create the user. You will then be taken back to the previous dialog box, with this new user selected. You can now choose their role in the project from the "Role" drop-down.
+
+![Screenshot showing role selection](images/select_role.png){ style="width:100%;max-width:600px;height:auto"}
+
+Click "Add role" once you have selected the role. The user will now be added to the project team.
 
 Now that the form is complete, click the "Submit" button to submit your application.
 
-Note - you should not change any settings in the "Project team" section of the form. This is automatically populated with your details, and only you can submit a form on your behalf.
+You should receive an email confirming that your application has been submitted successfully.
 
-Note also that you cannot change any details of your application after submission. If you need to change something, please contact [BriCS support][brics-support].
+Your application will be assessed by the [HPC Allocation and Compliance Committee][hacc] on a rolling basis.
 
-Your application will be assessed by the [HPC Allocation and Compliance Committee][hacc] on a rolling basis. This will normally be within one week of project submission. If awarded, your project will be created immediately, and you will receive an email inviting you to join the project. This will take you to a project management page, on which you can invite other members of your team to join your project. All members of a team will be able to consume the node hours awarded to your project, but only you, as the project lead, will be able to invite and remove project members.
+You will receive an email when a decision has been made on your application. This could include returning your application to you if further information is required. In this case, complete the necessary changes and re-submit your application.
+
+Assessment of your application will normally be within one week of project submission. If awarded, your project will be created immediately, and you (and all of your project team) will receive email(s) inviting you to join the project. This will take you to a project management page, on which you can invite further members of your team to join your project if you wish. All members of a team will be able to consume the node hours awarded to your project, but only you, as the project lead, will be able to invite and remove project members.
+
+Note that one project per resource requested will be created. For example, if you requested time on both Isambard AI and BlueCrystal 5, then two separate projects will be created - one on each resource. You will be the project lead on both projects, and all of your project team will be invited to join both projects. You will all have to accept the invitations to join each project before you can access the resources.
+
+Please contact [BriCS support][brics-support] if you have any questions about this process.
 
 [uob-rolling-call]: https://allocate.isambard.ac.uk/calls/a597f0c56d6649848cdaee694a2f550c/
 [brics-accounting]: https://docs.isambard.ac.uk/user-documentation/guides/accounting/
