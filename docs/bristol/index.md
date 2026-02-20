@@ -5,7 +5,7 @@ SPDX-FileCopyrightText: © 2025 University of Bristol
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-Only members of academic staff of the University of Bristol can apply for time via these routes. Please email the [Research Compliance Team][contact-drei] if you have any question about whether your position qualifies as a "member of academic staff".
+Only permanent University of Bristol staff can apply for time on Isambard 3 or Isambard‑AI via this route. If you’re unsure whether your role is classified as permanent, email Bristol’s [Research Compliance Team][contact-drei] for guidance.
 
 !!! warning "You must obtain compliance approval before submitting your application"
     Before submitting your application, you **must** complete a compliance assessment by filling in the [Compliance Assessment form][compliance-assessment]. Compliance approval is **only** obtained if you see, in green, "Please download and save this PDF and upload it with your research application" at the top of the form, e.g.
