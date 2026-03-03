@@ -11,8 +11,8 @@ UKRI provide access via the [AI Research Resource (AIRR) call][iai-airr-call]. T
 
 * [AIRR Gateway route][iai-airr-gateway], offering up to 10,000 GPU hours, for up to 3 months, designed for researchers from academia, industry, or other UK organisations
 * [AIRR Rapid Access route][iai-airr-rapid], offering up to 20,000 GPU hours, for up to 3 months, is open to UK-registered micro, small and medium organisations
-* [AIRR Innovator route][iai-airr-innovator], offering between 50,000-150,000 GPU hours, for up to 6 months, open to anyone. The Innovator route is designed to support longer, larger projects, ideally building on initial work done via the Gateway or Rapid Access routes.
-* [AI for Science route][iai-ai4science], offering between 200,000-1000,000 GPU hours, for up to 6 months, open to anyone aligned with the AI for Science priority areas, including material science, nuclear fusion, medical research, engineering biology, quantum technologies, and AI-driven research and scientific discovery
+* [<span style="text-decoration: line-through;">AIRR Innovator route</span>][iai-airr-innovator] (closed December 2025), offering between 50,000-150,000 GPU hours, for up to 6 months, open to anyone. The Innovator route is designed to support longer, larger projects, ideally building on initial work done via the Gateway or Rapid Access routes.
+* [<span style="text-decoration: line-through;">AI for Science route</span>][iai-ai4science] (closed January 2026), offering between 200,000-1000,000 GPU hours, for up to 6 months, open to anyone aligned with the AI for Science priority areas, including material science, nuclear fusion, medical research, engineering biology, quantum technologies, and AI-driven research and scientific discovery
 
 Applications are made via [AIRRPortal][airrportal]. The Gateway and Rapid Access routes are rolling calls, and are assessed and awarded promptly. The Innovator and AI for Science routes have fixed deadlines, and will be awarded to start in early 2026. The deadlines and award dates are available on the respective guidance pages.
 
