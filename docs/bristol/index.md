@@ -20,7 +20,9 @@ Permanent University of Bristol staff can apply for time on Isambard-AI or Isamb
 
 You can apply for time via the [University of Bristol rolling call][uob-rolling-call]. This is a rolling call. In most cases, applications will be assessed and awarded within a week of submission.
 
-Applications are for a fixed duration of 365 days, and you can apply to extend your project for a further 365 days during its last month if you need more time. Applications are also for default allocations of node hours on the BriCS services requested. You can apply for additional allocations of node hours once you have consumed more than 90% of your default allocation. Please contact [BriCS support][brics-support] if would like to extend your project or request additional allocations. The expectation is that up to five additional allocations will be granted per year of a project, but this will depend on the availability of resources. Requests for more than five additional allocations will be considered on a case-by-case basis by the [HPC Allocation and Compliance Committee][hacc]. Equally, the expectation is that requests for extension by an additional year will also be granted, subject to the project still being active and work still being conducted by Bristol-based researchers. In most cases, requests for extensions and additional allocations will be assessed and awarded within a week of submission.
+Applications are for a fixed duration of 365 days, and you can apply to extend your project for a further 365 days during its last month if you need more time. Applications are also for default allocations of node hours on the BriCS services requested.
+
+You can apply for additional allocations of node hours once you have consumed more than 90% of your default allocation. Please raise a helpdesk ticket at [support.isambard.ac.uk] [helpdesk] if you would like to extend your project or request additional allocations. The expectation is that up to five additional allocations will be granted per year of a project, but this will depend on the availability of resources. Requests for more than five additional allocations will be considered on a case-by-case basis by the [HPC Allocation and Compliance Committee][hacc]. Equally, the expectation is that requests for extension by an additional year will also be granted, subject to the project still being active and work still being conducted by Bristol-based researchers. In most cases, requests for extensions and additional allocations will be assessed and awarded within a week of submission.
 
 Full details of how accounting works on BriCS services are provided in the [BriCS accounting page][brics-accounting].
 
@@ -173,6 +175,7 @@ Please contact [BriCS support][brics-support] if you have any questions about th
 [uob-rolling-call]: https://allocate.isambard.ac.uk/calls/a597f0c56d6649848cdaee694a2f550c/
 [brics-accounting]: https://docs.isambard.ac.uk/user-documentation/guides/accounting/
 [brics-support]:  mailto:brics-support@bristol.ac.uk/
+[helpdesk]: https://support.isambard.ac.uk/
 [compliance-assessment]: https://compliance.isambard.ac.uk/
 [contact-drei]: mailto:research-compliance@bristol.ac.uk
 [project-team-form]: https://allocate-api.isambard.ac.uk/api/media/e9a00e43dbbe486aab2c172d52ff1e79/
