@@ -14,10 +14,12 @@ theme:
         - content.tabs.link
 nav:
     - "index.md"
-    - Bristol:
-          - "bristol/index.md"
     - UKRI:
           - "ukri/index.md"
+    - Sovereign AI:
+          - "sovai/index.md"
+    - Bristol:
+          - "bristol/index.md"
 extra_css:
     - stylesheets/extra.css
 markdown_extensions:
