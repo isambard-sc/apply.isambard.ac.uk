@@ -17,4 +17,5 @@ These services are:
 Time on these services is awarded by a number of allocators. Each allocator has its own application process and criteria for awarding time. The links below provide more details.
 
 - [UKRI](ukri/index.md) - Awards time on Isambard-AI and Isambard 3.
+- [Sovereign AI](sovai/index.md) - Awards time on Isambard-AI.
 - [University of Bristol](bristol/index.md) - Awards time on all BriCS services.
