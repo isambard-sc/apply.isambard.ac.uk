@@ -5,7 +5,9 @@ SPDX-FileCopyrightText: © 2025 University of Bristol
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-Permanent University of Bristol staff can apply for time on Isambard-AI or Isambard 3 via this route. Non-permanent Bristol affiliated researchers may be eligible to apply. If you are non-permanent, please email the [Research Compliance Team][contact-drei] so your eligibility can be assessed.
+All University of Bristol staff can apply to be Project Lead (PL) for an Isambard-AI or Isambard 3 research project account. A staff members eligibility to act as PL will be assessed as part of the application review process. 
+•	Honorary title holders, visiting academics, and postgraduate and undergraduate students may be added as users on a project account but are not eligible to act as PL. Staff members (e.g. supervisors) may apply for an account in support of a student-led research project, such as a PhD.
+
 
 !!! warning "You must obtain compliance approval before submitting your application"
     Before submitting your application, you **must** complete a compliance assessment by filling in the [Compliance Assessment form][compliance-assessment]. Compliance approval is **only** obtained if you see, in green, "Please download and save this PDF and upload it with your research application" at the top of the form, e.g.
