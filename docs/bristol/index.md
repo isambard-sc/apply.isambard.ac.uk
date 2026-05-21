@@ -4,7 +4,7 @@
 SPDX-FileCopyrightText: © 2025 University of Bristol
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
-All University of Bristol staff can apply to be Project Lead (PL) for an Isambard-AI or Isambard 3 research project account. A staff members eligibility to act as PL will be assessed as part of the application review process. 
+All University of Bristol staff can apply to be Project Lead (PL) for an Isambard-AI or Isambard 3 research project account. A staff member's eligibility to act as PL will be assessed as part of the application review process. 
 
 - Honorary title holders, visiting academics, and postgraduate and undergraduate students may be added as users on a project account but are not eligible to act as PL. Staff members (e.g. supervisors) may apply for an account in support of a student-led research project, such as a PhD.
 
