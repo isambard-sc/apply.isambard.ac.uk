@@ -8,8 +8,6 @@ All University of Bristol staff can apply to be Project Lead (PL) for an Isambar
 
 - Honorary title holders, visiting academics, and postgraduate and undergraduate students may be added as users on a project account but are not eligible to act as PL. Staff members (e.g. supervisors) may apply for an account in support of a student-led research project, such as a PhD.
 
-
-
 !!! warning "You must obtain compliance approval before submitting your application"
     Before submitting your application, you **must** complete a compliance assessment by filling in the [Compliance Assessment form][compliance-assessment]. Compliance approval is **only** obtained if you see, in green, "Please download and save this PDF and upload it with your research application" at the top of the form, e.g.
 
@@ -24,11 +22,13 @@ All University of Bristol staff can apply to be Project Lead (PL) for an Isambar
 You can apply for time on a BriCS service via the [University of Bristol rolling call][uob-rolling-call]. In most cases, applications will be assessed and awarded within a week of submission.
 
 **Important information before you apply:**
+
 - Research project accounts have a 1-year duration. If you need more time, you can request a 1-year extension during the final month of your account. Please raise a helpdesk ticket at [support.isambard.ac.uk][helpdesk] to request this. The expectation is that requests for extensions will be granted, subject to the project still being active and work still being conducted by Bristol-based researchers. In most cases, requests for extensions will be awarded within a week of submission.
 - You can open a research project account for any type of research activities, including exploratory research, idea testing and post graduate research projects.
 - One project account per research activity: Your project account must only be used for the research activities listed in your application. If, at a later stage, you wish to undertake additional research that falls outside the approved scope, you must apply for a separate project account so these activities can be reviewed by Research Compliance.
 
-**Node hours allocations for research projects:** 
+**Node hours allocations for research projects:**
+
 - New research project accounts receive the default allocations of node hours (NHR) on the BriCS services requested (see below).
 - Project Leads and Co-investigators can request up to three top-ups of 1,000 NHR once their project has consumed more than 90% of the default allocation. Please raise a helpdesk ticket at [support.isambard.ac.uk][helpdesk] to request this. In most cases, your request will be awarded within a week of submission. The expectation is that three additional allocations will be automatically granted per year, subject to the availability of spare NHRs. 
 - Research project PIs and Co-investigators can also request a one-off additional allocation of up to 5,000 NHR on Isambard-AI and Isambard 3 at any time via a simple application process. These one-off NHR are valid for 1 month. Further applications can be submitted once the allocated NHR have expired. [Apply for a large one-off allocation](https://forms.office.com/e/a0sHSSj6qZ). 
