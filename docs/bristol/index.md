@@ -1,10 +1,10 @@
-# Apply via time awarded by the University of Bristol
+# Apply for time awarded by the University of Bristol
 
 <!--
 SPDX-FileCopyrightText: © 2025 University of Bristol
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
-All University of Bristol staff can apply to be Project Lead (PL) for an Isambard-AI or Isambard 3 research project account. A staff members eligibility to act as PL will be assessed as part of the application review process. 
+All University of Bristol staff can apply to be Project Lead (PL) for an Isambard-AI or Isambard 3 research project account. A staff member's eligibility to act as PL will be assessed as part of the application review process. 
 
 - Honorary title holders, visiting academics, and postgraduate and undergraduate students may be added as users on a project account but are not eligible to act as PL. Staff members (e.g. supervisors) may apply for an account in support of a student-led research project, such as a PhD.
 
@@ -19,25 +19,32 @@ All University of Bristol staff can apply to be Project Lead (PL) for an Isambar
 
     In either case, you must [email the Research Compliance Team][contact-drei] a copy of your completed Compliance Assessment form together with details of which application this is, e.g. Isambard AI or 3. All passed compliance applications need to be filed centrally.
 
-## Research use
+## Using BriCS services for research purposes
 
-You can apply for time via the [University of Bristol rolling call][uob-rolling-call]. This is a rolling call. In most cases, applications will be assessed and awarded within a week of submission.
+You can apply for time on a BriCS service via the [University of Bristol rolling call][uob-rolling-call]. In most cases, applications will be assessed and awarded within a week of submission.
 
-Applications are for a fixed duration of 365 days, and you can apply to extend your project for a further 365 days during its last month if you need more time. Applications are also for default allocations of node hours on the BriCS services requested.
+**Important information before you apply:**
+- Research project accounts have a 1-year duration. If you need more time, you can request a 1-year extension during the final month of your account. Please raise a helpdesk ticket at [support.isambard.ac.uk][helpdesk] to request this. The expectation is that requests for extensions will be granted, subject to the project still being active and work still being conducted by Bristol-based researchers. In most cases, requests for extensions will be awarded within a week of submission.
+- You can open a research project account for any type of research activities, including exploratory research, idea testing and post graduate research projects.
+- One project account per research activity: Your project account must only be used for the research activities listed in your application. If, at a later stage, you wish to undertake additional research that falls outside the approved scope, you must apply for a separate project account so these activities can be reviewed by Research Compliance.
 
-You can apply for additional allocations of node hours once you have consumed more than 90% of your default allocation. Please raise a helpdesk ticket at [support.isambard.ac.uk][helpdesk] if you would like to extend your project or request additional allocations. The expectation is that up to five additional allocations will be granted per year of a project, but this will depend on the availability of resources. Requests for more than five additional allocations will be considered on a case-by-case basis by the [HPC Allocation and Compliance Committee][hacc]. Equally, the expectation is that requests for extension by an additional year will also be granted, subject to the project still being active and work still being conducted by Bristol-based researchers. In most cases, requests for extensions and additional allocations will be assessed and awarded within a week of submission.
+**Node hours allocations for research projects:** 
+- New research project accounts receive the default allocations of node hours (NHR) on the BriCS services requested (see below).
+- Project Leads and Co-investigators can request up to three top-ups of 1,000 NHR once their project has consumed more than 90% of the default allocation. Please raise a helpdesk ticket at [support.isambard.ac.uk][helpdesk] to request this. In most cases, your request will be awarded within a week of submission. The expectation is that three additional allocations will be automatically granted per year, subject to the availability of spare NHRs. 
+- Research project PIs and Co-investigators can also request a one-off additional allocation of up to 5,000 NHR on Isambard-AI and Isambard 3 at any time via a simple application process. These one-off NHR are valid for 1 month. Further applications can be submitted once the allocated NHR have expired. [Apply for a large one-off allocation](https://forms.office.com/e/a0sHSSj6qZ). 
 
 Full details of how accounting works on BriCS services are provided in the [BriCS accounting page][brics-accounting].
 
-Currently, the values of the Default and Additional allocations on the different services are:
+Currently, the values of the Default and Top-up allocations on the different services are:
 
-| Service       | Default allocation | Additional allocation |
+| Service       | Default allocation | Top-up allocation |
 |---------------|--------------------|-----------------------|
-| Isambard-AI   | 1000 node hours    | 500 node hours        |
-| Isambard 3    | 1000 node hours    | 500 node hours        |
-| BlueCrystal 5 | 2000 node hours    | 1000 node hours       |
+| Isambard-AI   | 1000 node hours    | 3 x 1000 node hours        |
+| Isambard 3    | 1000 node hours    | 3 x 1000 node hours        |
+| BlueCrystal 5 | 2000 node hours    | 3 x 1000 node hours       |
 
-To complete your application, you will need to provide:
+
+**To complete your application, you will need to provide:**
 
 - A project name - this should be a short name that you will use to identify your project
 - A project summary - this should be a brief (2-3 paragraph) summary of your project. This will be made visible to other users of BriCS services.
@@ -50,11 +57,13 @@ To complete your application, you will need to provide:
 
 With these details, you can complete your application at [allocate.isambard.ac.uk][allocate-isambard]. More detailed instructions on how to use the allocation system are [provided below](#how-to-complete-your-application).
 
-## Teaching use
 
-More instructions on how to apply for time for teaching will be published soon.
+## Using BriCS services for teaching purposes
 
-## How to complete your application
+More instructions on how to apply for time for teaching purposes will be published in due course. 
+
+
+## Complete your application now
 
 Navigate to [allocate.isambard.ac.uk][allocate-isambard] and click "Click here to login".
 
