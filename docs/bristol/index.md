@@ -24,14 +24,14 @@ You can apply for time on a BriCS service via the [University of Bristol rolling
 
 **Important information before you apply:**
 
-- Research project accounts have a 1-year duration. If you need more time, you can request a 1-year extension during the final month of your account. Please raise a helpdesk ticket at [support.isambard.ac.uk][helpdesk] to request this. The expectation is that requests for extensions will be granted, subject to the project still being active and work still being conducted by Bristol-based researchers. In most cases, requests for extensions will be awarded within a week of submission.
+- Research project accounts have a 1-year duration. If you need more time, you can request a 1-year extension during the final month of your account. Please email hacc-committee@bristol.ac.uk to request this. The expectation is that requests for extensions will be granted, subject to the project still being active and work still being conducted by Bristol-based researchers. In most cases, requests for extensions will be awarded within a week of submission.
 - You can open a research project account for any type of research activities, including exploratory research, idea testing and post graduate research projects.
 - One project account per research activity: Your project account must only be used for the research activities listed in your application. If, at a later stage, you wish to undertake additional research that falls outside the approved scope, you must apply for a separate project account so these activities can be reviewed by Research Compliance.
 
 **Node hours allocations for research projects:**
 
 - New research project accounts receive the default allocations of node hours (NHR) on the BriCS services requested (see below).
-- Project Leads and Co-investigators can request up to three top-ups of 1,000 NHR once their project has consumed more than 90% of the default allocation. Please raise a helpdesk ticket at [support.isambard.ac.uk][helpdesk] to request this. In most cases, your request will be awarded within a week of submission. The expectation is that three additional allocations will be automatically granted per year, subject to the availability of spare NHRs. 
+- Project Leads and Co-investigators can request up to three top-ups of 1,000 NHR once their project has consumed more than 90% of the default allocation. Please email hacc-committee@bristol.ac.uk to request this. In most cases, your request will be awarded within a week of submission. The expectation is that three additional allocations will be automatically granted per year, subject to the availability of spare NHRs. 
 - Research project PIs and Co-investigators can also request a one-off additional allocation of up to 5,000 NHR on Isambard-AI and Isambard 3 at any time via a simple application process. These one-off NHR are valid for 1 month. Further applications can be submitted once the allocated NHR have expired. [Apply for a large one-off allocation](https://forms.office.com/e/a0sHSSj6qZ). 
 
 Full details of how accounting works on BriCS services are provided in the [BriCS accounting page][brics-accounting].
@@ -50,7 +50,7 @@ Currently, the values of the Default and Top-up allocations on the different ser
 - A project name - this should be a short name that you will use to identify your project
 - A project summary - this should be a brief (2-3 paragraph) summary of your project. This will be made visible to other users of BriCS services.
 - A project description - this should be a short (3-4 paragraph) description of your project. This does not need to be a full proposal - just a brief description that will help the allocation committee understand what the time on BriCS services will be used for.
-- You need to check a checkbox to confirm that your project is non-commercial / research only. If your project is commercial, you should seek advice from [BriCS support][brics-support]. Note, projects that are funded by commercial entities, but which are for research use only and conducted by Bristol-based PhD students or PDRAs are considered non-commercial.
+- You need to check a checkbox to confirm that your project is non-commercial / research only. If your project is commercial, you should seek advice from hacc-committee@bristol.ac.uk. Note, projects that are funded by commercial entities, but which are for research use only and conducted by Bristol-based PhD students or PDRAs are considered non-commercial.
 - You need to mark whether or not the project involves confidential, sensitive or GDPR-protected information. If this is the case, then you should seek advice from [BriCS support][brics-support].
 - You then need to upload two completed forms:
     - A [completed Compliance Assessment form][compliance-assessment]. Navigate to [the link][compliance-assessment], fill in the form, and then download the completed form as a PDF. Follow the instructions in the PDF before continuing. For example, if you see "Please download and save this PDF and upload it with your research application", then you can continue to upload this form with your application. However, **if the form asks you to contact your research office, then you need to get in touch with the [Research Compliance Team][contact-drei] to complete a more detailed compliance assessment, which you would then upload with your application**. Note in any case, you will also need to email the [Research Compliance Team][contact-drei] a copy of your completed Compliance Assessment form together with details of which application this is, e.g. Isambard AI or 3.
@@ -101,7 +101,7 @@ Fill in the details requested, i.e.
 - A project title - this should be a title that you will use to identify your project
 - A project summary - this should be a brief (2-3 paragraph) summary of your project. This will be made visible to other users of BriCS services.
 - A project description - this should be a short (3-4 paragraph) description of your project. This does not need to be a full proposal - just a brief description that will help the allocation committee understand what the time on BriCS services will be used for.
-- You need to check a checkbox to confirm that your project is non-commercial / research only. If your project is commercial, you should seek advice from [BriCS support][brics-support]. Note, projects that are funded by commercial entities, but which are for research use only and conducted by Bristol-based PhD students or PDRAs are considered non-commercial.
+- You need to check a checkbox to confirm that your project is non-commercial / research only. If your project is commercial, you should seek advice from hacc-committee@bristol.ac.uk. Note, projects that are funded by commercial entities, but which are for research use only and conducted by Bristol-based PhD students or PDRAs are considered non-commercial.
 - You need to mark whether or not the project involves confidential, sensitive or GDPR-protected information. If this is the case, then you should seek advice from [BriCS support][brics-support].
 
 ![Screenshot showing completed application page](images/application_details2.png){ style="width:100%;max-width:600px;height:auto"}
@@ -183,7 +183,7 @@ Assessment of your application will normally be within one week of project submi
 
 Note that one project per resource requested will be created. For example, if you requested time on both Isambard AI and BlueCrystal 5, then two separate projects will be created - one on each resource. You will be the project lead on both projects, and all of your project team will be invited to join both projects. You will all have to accept the invitations to join each project before you can access the resources.
 
-Please contact [BriCS support][brics-support] if you have any questions about this process.
+Please contact hacc-committee@bristol.ac.uk if you have any questions about this process.
 
 [uob-rolling-call]: https://allocate.isambard.ac.uk/calls/a597f0c56d6649848cdaee694a2f550c/
 [brics-accounting]: https://docs.isambard.ac.uk/user-documentation/guides/accounting/
