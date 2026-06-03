@@ -6,7 +6,8 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 All University of Bristol staff can apply to be Project Lead (PL) for an Isambard-AI or Isambard 3 research project account. A staff member's eligibility to act as PL will be assessed as part of the application review process. 
 
-- Honorary title holders, visiting academics, and postgraduate and undergraduate students may be added as users on a project account but are not eligible to act as PL. Staff members (e.g. supervisors) may apply for an account in support of a student-led research project, such as a PhD.
+- Honorary title holders, visiting academics, postdoctoral researchers, and postgraduate and undergraduate students can be added as users on a project account but are not eligible to be a PL. Staff members (e.g. supervisors) may apply for an account in support of a student-led research project, such as a PhD.
+- Research fellows employed by the University are eligible to be a PL. Fellows not employed by the University are not eligible.
 
 !!! warning "You must obtain compliance approval before submitting your application"
     Before submitting your application, you **must** complete a compliance assessment by filling in the [Compliance Assessment form][compliance-assessment]. Compliance approval is **only** obtained if you see, in green, "Please download and save this PDF and upload it with your research application" at the top of the form, e.g.
