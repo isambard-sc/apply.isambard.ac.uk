@@ -31,8 +31,8 @@ You can apply for time on a BriCS service via the [University of Bristol rolling
 **Node hours allocations for research projects:**
 
 - New research project accounts receive the default allocations of node hours (NHR) on the BriCS services requested (see below).
-- Project Leads and Co-investigators can request up to three top-ups of 1,000 NHR once their project has consumed more than 90% of the default allocation. Please email the [HPC Allocation and Compliance Committee][hacc-email] to request this. In most cases, your request will be awarded within a week of submission. The expectation is that three additional allocations will be automatically granted per year, subject to the availability of spare NHRs. 
-- Research project PIs and Co-investigators can also request a one-off additional allocation of up to 5,000 NHR on Isambard-AI and Isambard 3 at any time via a simple application process. These one-off NHR are valid for 1 month. Further applications can be submitted once the allocated NHR have expired. [Apply for a large one-off allocation](https://forms.office.com/e/a0sHSSj6qZ). 
+- Project Leads (PLs) and Co-investigators can receive up to 3 x 1,000 NHR top-ups once their project has consumed more than 80% of the default allocation. [Request a 1,000 NHR top-up](https://forms.cloud.microsoft/e/Tdst53uSNK).  
+- PLs and Co-investigators can also request a one-off additional allocation of up to 5,000 NHR on Isambard-AI and Isambard 3 at any time via a simple application process. These one-off NHR are valid for 1 month. Further applications can be submitted once the allocated NHR have expired. [Apply for a large one-off allocation](https://forms.office.com/e/a0sHSSj6qZ). 
 
 Full details of how accounting works on BriCS services are provided in the [BriCS accounting page][brics-accounting].
 
