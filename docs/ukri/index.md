@@ -7,7 +7,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ## Isambard-AI
 
-UKRI provide access via the [AI Research Resource (AIRR) call][iai-airr-call]. There are four options:
+UKRI provide access via the [AI Research Resource (AIRR) call][iai-airr-call]. There are three options:
 
 * [AIRR Gateway route][iai-airr-gateway], offering up to 10,000 GPU hours, for up to 3 months, designed for researchers from academia, industry, or other UK organisations
 * [AIRR Rapid Access route][iai-airr-rapid], offering up to 20,000 GPU hours, for up to 3 months, is open to UK-registered micro, small and medium organisations
