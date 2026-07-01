@@ -11,7 +11,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 **Isambard-AI and Isambard 3:** Most University of Bristol staff are eligible to act as Project Lead (PL) for an Isambard-AI or Isambard 3 research project. Eligibility is assessed as part of the application review process. 
 
-- Research fellows employed by the University are eligible to be PL. Fellows not employed by the University are not eligible.
+- Research fellows employed by the University are eligible to be PL. Non-employed fellows cannot act as PL.
   
 - Postdoctoral researchers are eligible to be Co-Lead (CL) but not PL.  
   
