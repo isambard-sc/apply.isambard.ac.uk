@@ -7,9 +7,9 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ### Open a research project account on Isambard-AI, Isambard 3 or BlueCrystal 5
 
-**ELIGIBILITY CRITERIA**  
+**Eligibility criteria**  
 
-**Isambard-AI and Isambard 3:** Most University of Bristol staff are eligible to act as Project Lead (PL) for an Isambard-AI or Isambard 3 research project. Eligibility is assessed as part of the application review process. 
+Isambard-AI and Isambard 3: Most University of Bristol staff are eligible to act as Project Lead (PL) for an Isambard-AI or Isambard 3 research project. Eligibility is assessed as part of the application review process. 
 
 - Research fellows employed by the University are eligible to be PL. Non-employed fellows cannot act as PL.
   
@@ -18,7 +18,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - Honorary title holders, visiting academics, and postgraduate and undergraduate students can be added as users of a project account but are not eligible to be a PL or CL. Staff members (e.g. supervisors) may apply on behalf of a student-led project, such as a PhD.
   
 
-**BlueCrystal 5:** The environment is open to a small number of Schools. You can apply for an account if your School has access and you meet the general PL eligibility criteria.  
+BlueCrystal 5: The environment is open to a small number of Schools. You can apply for an account if your School has access and you meet the general PL eligibility criteria.  
 
 !!! warning "You must obtain compliance approval before submitting your application"
     Before submitting your application, ensure you **complete the [Compliance Assessment form][compliance-assessment]**. Once finished, if your Compliance Report contains this message at the top of the assessment: "Please download and save this PDF and upload it with your research application", then your project has passed the assessment and should be uploaded with your application.  
