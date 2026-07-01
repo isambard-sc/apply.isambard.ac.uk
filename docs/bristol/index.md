@@ -5,7 +5,7 @@ SPDX-FileCopyrightText: © 2025 University of Bristol
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-### **Open a research project account on Isambard-AI, Isambard 3 or BlueCrystal 5**
+### Open a research project account on Isambard-AI, Isambard 3 or BlueCrystal 5
 
 **ELIGIBILITY CRITERIA**  
 
