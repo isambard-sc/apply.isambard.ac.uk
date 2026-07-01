@@ -1,13 +1,24 @@
-# Apply for time awarded by the University of Bristol
+# Apply for University of Bristol access
 
 <!--
 SPDX-FileCopyrightText: © 2025 University of Bristol
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
-All University of Bristol staff can apply to be Project Lead (PL) or Co-Lead for an Isambard-AI or Isambard 3 research project account. A staff member's eligibility to act as PL or Co-Lead will be assessed as part of the application review process. 
 
-- Honorary title holders, visiting academics, postdoctoral researchers, and postgraduate and undergraduate students can be added as users on a project account but are not eligible to be a PL or Co-Lead. Staff members (e.g. supervisors) may apply for an account in support of a student-led research project, such as a PhD.
-- Research fellows employed by the University are eligible to be a PL. Fellows not employed by the University are not eligible.
+### **Open a research project account on Isambard-AI, Isambard 3 or BlueCrystal 5**
+
+**ELIGIBILITY CRITERIA**  
+
+**Isambard-AI and Isambard 3:** Most University of Bristol staff are eligible to act as Project Lead (PL) for an Isambard-AI or Isambard 3 research project. Eligibility is assessed as part of the application review process. 
+
+- Research fellows employed by the University are eligible to be PL. Fellows not employed by the University are not eligible.
+  
+- Postdoctoral researchers are eligible to be Co-Lead (CL) but not PL.  
+  
+- Honorary title holders, visiting academics, and postgraduate and undergraduate students can be added as users of a project account but are not eligible to be a PL or CL. Staff members (e.g. supervisors) may apply on behalf of a student-led project, such as a PhD.
+  
+
+**BlueCrystal 5:** The environment is open to a small number of Schools. You can apply for an account if your School has access and you meet the general PL eligibility criteria.  
 
 !!! warning "You must obtain compliance approval before submitting your application"
     Before submitting your application, ensure you **complete the [Compliance Assessment form][compliance-assessment]**. Once finished, if your Compliance Report contains this message at the top of the assessment: "Please download and save this PDF and upload it with your research application", then your project has passed the assessment and should be uploaded with your application.  
