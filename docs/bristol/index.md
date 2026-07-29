@@ -7,18 +7,19 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ### Open a research project account on Isambard-AI, Isambard 3 or BlueCrystal 5
 
-**Eligibility criteria**  
+Eligibility criteria 
 
-Isambard-AI and Isambard 3: Most University of Bristol staff are eligible to act as Project Lead (PL) for an Isambard-AI or Isambard 3 research project. Eligibility is assessed as part of the application review process. 
+**Isambard-AI and Isambard 3**: Most University of Bristol staff are eligible to act as Project Lead (PL) for an Isambard-AI or Isambard 3 research project. 
 
 - Research fellows employed by the University are eligible to be PL. Non-employed fellows cannot act as PL.
   
 - Postdoctoral researchers are eligible to be Co-Lead (CL) but not PL.  
   
-- Honorary title holders, visiting academics, and postgraduate and undergraduate students can be added as users of a project account but are not eligible to be a PL or CL. Staff members (e.g. supervisors) may apply on behalf of a student-led project, such as a PhD.
+- Honorary title holders, visiting academics, and postgraduate and undergraduate students can be added as users of a research project account but are not eligible to be a PL or CL. Staff members (e.g. supervisors) may apply on behalf of a student-led project, such as a PhD.
   
+An applicant's eligibility to be Project Lead or Co-Lead is checked as part of the account application review.
 
-BlueCrystal 5: The environment is open to a small number of Schools. You can apply for an account if your School has access and you meet the general PL eligibility criteria.  
+**BlueCrystal 5**: The environment is open to a small number of Schools. You can apply for an account if your School has access and you meet the general PL eligibility criteria.  
 
 !!! warning "You must obtain compliance approval before submitting your application"
     Before submitting your application, ensure you **complete the [Compliance Assessment form][compliance-assessment]**. Once finished, if your Compliance Report contains this message at the top of the assessment: "Please download and save this PDF and upload it with your research application", then your project has passed the assessment and should be uploaded with your application.  
@@ -27,32 +28,36 @@ BlueCrystal 5: The environment is open to a small number of Schools. You can app
 
     If you see a message at the top of the compliance assessment asking you to contact your research office (message is in red), then you **must** email the [Research Compliance Team][contact-drei] to complete a more detailed compliance assessment **before** submitting your application. Once Research Compliance has approved your research project, attach to your application a PDF copy of the email you receive from the Research Compliance Team confirming that compliance has now been passed. 
     
-## Using BriCS services for research purposes
+## How to apply
 
-You can apply for time on a BriCS service via the [University of Bristol rolling call][uob-rolling-call]. In most cases, applications will be assessed and awarded within a week of submission.
+### Important information before you apply 
 
-**Important information before you apply:**
-
-- Research project accounts have a 1-year duration. If you need more time, you can request a 1-year extension during the final month of your account. Please email the [HPC Allocation and Compliance Committee][hacc-email] to request this. The expectation is that requests for extensions will be granted, subject to the project still being active and work still being conducted by Bristol-based researchers. In most cases, requests for extensions will be awarded within a week of submission.
-- You can open a research project account for any type of research activities, including exploratory research, idea testing and post graduate research projects.
+- Research project accounts have a 1-year duration but can renewed for a further year during the final month of the account, if required. [Request account renewal](https://forms.cloud.microsoft/e/Wp5SgwLpQx). Renewal requests are typically granted within a few days.  
+- You can open a research project account for any type of research activity, including exploratory research, idea testing and post graduate research projects.
 - One project account per research activity: Your project account must only be used for the research activities listed in your application. If, at a later stage, you wish to undertake additional research that falls outside the approved scope, you must apply for a separate project account so these activities can be reviewed by Research Compliance.
 
-**Node hours allocations for research projects:**
+**Node hours allocations for research projects**
 
-- New research project accounts receive the default allocations of node hours (NHR) on the BriCS services requested (see below).
-- Project Leads (PLs) and Co-investigators can receive up to 3 x 1,000 NHR top-ups once their project has consumed more than 80% of the default allocation. [Request a 1,000 NHR top-up](https://forms.cloud.microsoft/e/Tdst53uSNK).  
-- PLs and Co-investigators can also request a one-off additional allocation of up to 5,000 NHR on Isambard-AI and Isambard 3 at any time via a simple application process. These one-off NHR are valid for 1 month. Further applications can be submitted once the allocated NHR have expired. [Apply for a large one-off allocation](https://forms.office.com/e/a0sHSSj6qZ). 
+- New research project accounts receive an initial Default node hours (NHR) allocation on the BriCS services requested, and can request additional NHR if required (see below).
 
-Full details of how accounting works on BriCS services are provided in the [BriCS accounting page][brics-accounting].
+Project Leads or Co-Leads can: 
 
-Currently, the values of the Default and Top-up allocations on the different services are:
+- [Request a 1,000 NHR Top-up](https://forms.cloud.microsoft/e/Wp5SgwLpQx), valid for the duration of the project (max 3 requests per project, per year), or
 
-| Service       | Default allocation | Top-up allocation |
-|---------------|--------------------|-----------------------|
-| Isambard-AI   | 1000 node hours    | 3 x 1000 node hours        |
-| Isambard 3    | 1000 node hours    | 3 x 1000 node hours        |
-| BlueCrystal 5 | 2000 node hours    | 3 x 1000 node hours       |
+- [Request a One-off NHR allocation](https://forms.cloud.microsoft/e/Wp5SgwLpQx), valid for 1 month. You can request further One-off allocations once you've used your node hours or they've expired. One-off NHR are allocated on a first come, first served basis, when spare compute is available on the requested environment.
 
+
+| Service       | Default allocation | Top-up allocation | One-off allocation |
+|---------------|--------------------|-------------------|--------------------|
+| Isambard-AI   | 1,000 NHR   | 3 x 1,000 NHR | Up to 5,000 NHR    |
+| Isambard 3    | 1,000 NHR   | 3 x 1,000 NHR | Up to 5,000 NHR    |
+| BlueCrystal 5 | 2,000 NHR   | 3 x 1,000 NHR | Up to 10,000 NHR   |
+
+
+Full details of how node hours accounting works on BriCS services are provided in the [BriCS accounting page][brics-accounting].
+
+### Apply now
+You can apply for a research project account on Isambard-AI, Isambard 3 or BlueCrystal 5 via the [University of Bristol rolling call][uob-rolling-call]. New research accounts are typically set up within one week.  
 
 **To complete your application, you will need to provide:**
 
