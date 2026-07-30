@@ -48,7 +48,7 @@ Project Leads or Co-Leads can:
 Full details of how node hours accounting works on BriCS services are provided in the [BriCS accounting page][brics-accounting].
 
 ## Apply now
-**Step 1**: 
+### Step 1: 
 
 !!! warning "You must obtain compliance approval before submitting your application"
     Before submitting your application, complete the **[Compliance Assessment form][compliance-assessment]**. 
@@ -56,11 +56,18 @@ Full details of how node hours accounting works on BriCS services are provided i
     - **If your Compliance Report says**: "Please download and save this PDF and upload it with your research application" - your project has passed. Upload the PDF with your application.
     - **If you see a red message** asking you to contact your research office - email the [Research Compliance Team][contact-drei] for a more detailed assessment. Once approved, attach a PDF of their confirmation email to your application.
     
-**Step 2**: 
+### Step 2: 
+
+**NB**: You need to attach two forms to your application before submitting:
+
+- The [Project Team Information form][project-team-form].
+- The [Compliance Assessment form][compliance-assessment].
+
+**Application Form**
 
 You can apply for a research project account on Isambard-AI, Isambard 3 or BlueCrystal 5 via the [University of Bristol rolling call][uob-rolling-call]. New research accounts are typically set up within one week.  
 
-**To complete your application, you will need to provide:**
+### Information you need to provide when applying for an account:
 
 - A project name - this should be a short name that you will use to identify your project
 - A project summary - this should be a brief (2-3 paragraph) summary of your project. This will be made visible to other users of BriCS services.
