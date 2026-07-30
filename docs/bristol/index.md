@@ -20,17 +20,8 @@ Eligibility criteria
 An applicant's eligibility to be Project Lead or Co-Lead is checked as part of the account application review.
 
 **BlueCrystal 5**: The environment is open to a small number of Schools. You can apply for an account if your School has access and you meet the general PL eligibility criteria.  
-
-!!! warning "You must obtain compliance approval before submitting your application"
-    Before submitting your application, ensure you **complete the [Compliance Assessment form][compliance-assessment]**. Once finished, if your Compliance Report contains this message at the top of the assessment: "Please download and save this PDF and upload it with your research application", then your project has passed the assessment and should be uploaded with your application.  
-    
-    ![Screenshot of completed compliance assessment form](images/compliance_passed.png){ style="width:100%;max-width:600px;height:auto"}
-
-    If you see a message at the top of the compliance assessment asking you to contact your research office (message is in red), then you **must** email the [Research Compliance Team][contact-drei] to complete a more detailed compliance assessment **before** submitting your application. Once Research Compliance has approved your research project, attach to your application a PDF copy of the email you receive from the Research Compliance Team confirming that compliance has now been passed. 
-    
-## How to apply
-
-### Important information before you apply 
+ 
+## Important information before you apply 
 
 - Research project accounts have a 1-year duration but can renewed for a further year during the final month of the account, if required. [Request account renewal](https://forms.cloud.microsoft/e/Wp5SgwLpQx). Renewal requests are typically granted within a few days.  
 - You can open a research project account for any type of research activity, including exploratory research, idea testing and post graduate research projects.
@@ -56,7 +47,15 @@ Project Leads or Co-Leads can:
 
 Full details of how node hours accounting works on BriCS services are provided in the [BriCS accounting page][brics-accounting].
 
-### Apply now
+## Apply now
+**Step 1**: 
+
+!!! warning "You must obtain compliance approval before submitting your application"
+    Before submitting your application, complete the **[Compliance Assessment form][compliance-assessment]**. 
+    - **If your Compliance Report says**: "Please download and save this PDF and upload it with your research application" - your project has passed. Upload the PDF with your application.
+    
+    - **If you see a red message** asking you to contact your research office — email the [Research Compliance Team][contact-drei] for a more detailed assessment. Once approved, attach a PDF of their confirmation email to your application.
+    
 You can apply for a research project account on Isambard-AI, Isambard 3 or BlueCrystal 5 via the [University of Bristol rolling call][uob-rolling-call]. New research accounts are typically set up within one week.  
 
 **To complete your application, you will need to provide:**
