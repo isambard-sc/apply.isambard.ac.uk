@@ -60,8 +60,8 @@ Full details of how node hours accounting works on BriCS services are provided i
 
 **NB**: You need to attach two forms to your application before submitting:
 
-- The [Project Team Information form][project-team-form].
-- The [Compliance Assessment form][compliance-assessment].
+- The [Project Team Information form][project-team-form]
+- The [Compliance Assessment form][compliance-assessment]
 
 **Application Form**
 
