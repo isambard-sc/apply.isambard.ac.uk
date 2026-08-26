@@ -58,7 +58,8 @@ Full details of how node hours accounting works on BriCS services are provided i
     
 
 
-** What you need to know about research compliance approval**
+**What you need to know about research compliance approval**
+
 - **Multiple environments:** If you are requesting access to BlueCrystal 5 and one or both of the Isambard-AI and Isambard 3 environments, you must complete both the [Isambards Compliance Assessment form][compliance-assessment] and the University of Bristol  [Research Project Compliance Tool](https://apps.powerapps.com/play/e/default-b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b/a/945bbb5c-02b5-4605-a597-a108a8a432d3?tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b&source=sharebutton&sourcetime=1773318140178).
 - **Green message**: If your Isambards Compliance Report shows a green message at the top of the first page stating "Please download and save this PDF and upload it with your research application," your project has passed the compliance assessment. Upload the PDF with your application - no further action is needed.
 - **Red message**: If your Isambards Compliance Report shows a red message asking you to contact your research office, email the [Research Compliance Team][contact-drei] to request a detailed assessment. Once your project is approved, attach a PDF of your compliance approval to your BriCS research project application alongside your original Isambards Compliance Report.
@@ -71,7 +72,7 @@ Full details of how node hours accounting works on BriCS services are provided i
 
 ### Step 3: 
 
-**Applying for a research project account **
+**Applying for a research project account**
 
 Applications for a research project account on Isambard-AI, Isambard 3 or BlueCrystal 5 are made via the [University of Bristol rolling call][uob-rolling-call]. New research accounts are typically set up within one week.  
 
