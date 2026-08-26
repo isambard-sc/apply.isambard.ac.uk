@@ -25,7 +25,7 @@ An applicant's eligibility to be Project Lead or Co-Lead is checked as part of t
 
 - Research project accounts have a 1-year duration but can renewed for a further year during the final month of the account, if required. [Request account renewal](https://forms.cloud.microsoft/e/Wp5SgwLpQx). Renewal requests are typically granted within a few days.  
 - You can open a research project account for any type of research activity, including exploratory research, idea testing and post graduate research projects.
-- One project account per research activity: Your project account must only be used for the research activities listed in your application. If, at a later stage, you wish to undertake additional research that falls outside the approved scope, you must apply for a separate project account so these activities can be reviewed by Research Compliance.
+- One project account per research activity: Your project account **must only** be used for the research activities listed in your application. If, at a later stage, you wish to undertake additional research that falls outside the approved scope, you must apply for a separate project account so these activities can be reviewed by Research Compliance.
 
 **Node hours allocations for research projects**
 
@@ -51,40 +51,39 @@ Full details of how node hours accounting works on BriCS services are provided i
 ### Step 1: 
 
 !!! warning "You must obtain compliance approval before submitting your application"
-    Before submitting your application, complete the **[Compliance Assessment form][compliance-assessment]**. 
     
-    - **If your Compliance Report says**: "Please download and save this PDF and upload it with your research application" - your project has passed. Upload the PDF with your application.
-    - **If you see a red message** asking you to contact your research office - email the [Research Compliance Team][contact-drei] for a more detailed assessment. Once approved, attach a PDF of their confirmation email to your application.
+    - If you are requesting access to Isambard-AI or Isambard 3, complete the **[Compliance Assessment form][compliance-assessment]**. 
+    - If you are requesting access to BlueCrystal 5, complete the University of Bristol [Research Project Compliance Tool](https://apps.powerapps.com/play/e/default-b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b/a/945bbb5c-02b5-4605-a597-a108a8a432d3?tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b&source=sharebutton&sourcetime=1773318140178). 
+
+    
+
+
+** What you need to know about research compliance approval**
+- **Multiple environments:** If you are requesting access to BlueCrystal 5 and one or both of the Isambard-AI and Isambard 3 environments, you must complete both the [Isambards Compliance Assessment form][compliance-assessment] and the University of Bristol  [Research Project Compliance Tool](https://apps.powerapps.com/play/e/default-b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b/a/945bbb5c-02b5-4605-a597-a108a8a432d3?tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b&source=sharebutton&sourcetime=1773318140178).
+- **Green message**: If your Isambards Compliance Report shows a green message at the top of the first page stating "Please download and save this PDF and upload it with your research application," your project has passed the compliance assessment. Upload the PDF with your application - no further action is needed.
+- **Red message**: If your Isambards Compliance Report shows a red message asking you to contact your research office, email the [Research Compliance Team][contact-drei] to request a detailed assessment. Once your project is approved, attach a PDF of your compliance approval to your BriCS research project application alongside your original Isambards Compliance Report.
     
 ### Step 2: 
 
-**NB**: You need to attach two forms to your application before submitting:
+**NB**: Alongside the relevant compliance forms, you need to attach this forms to your application before submitting:
 
 - The [Project Team Information form][project-team-form]
-- The [Compliance Assessment form][compliance-assessment]
 
-**Application Form**
+### Step 3: 
 
-You can apply for a research project account on Isambard-AI, Isambard 3 or BlueCrystal 5 via the [University of Bristol rolling call][uob-rolling-call]. New research accounts are typically set up within one week.  
+**Applying for a research project account **
 
-### Information you need to provide when applying for an account:
+Applications for a research project account on Isambard-AI, Isambard 3 or BlueCrystal 5 are made via the [University of Bristol rolling call][uob-rolling-call]. New research accounts are typically set up within one week.  
 
-- A project name - this should be a short name that you will use to identify your project
-- A project summary - this should be a brief (2-3 paragraph) summary of your project. This will be made visible to other users of BriCS services.
-- A project description - this should be a short (3-4 paragraph) description of your project. This does not need to be a full proposal - just a brief description that will help the allocation committee understand what the time on BriCS services will be used for.
+### Information you need to provide when applying for an account
+
+- Project name: a short name for your research project
+- Project summary: a brief (2–3 paragraph) overview of your project, written for a general audience. This will be visible to other BriCS users.
+- Project description: 3–4 paragraphs outlining the specific research you'll undertake using BriCS's advanced compute resources. 
 - You need to check a checkbox to confirm that your project is non-commercial / research only. If your project is commercial, you should seek advice from the [HPC Allocation and Compliance Committee][hacc-email]. 
-- You need to mark whether or not the project involves confidential, sensitive or GDPR-protected information. If this is the case, then you should seek advice from [BriCS support][brics-support].
-- You then need to upload two completed forms:
-    - A [completed Compliance Assessment form][compliance-assessment]. Navigate to [the link][compliance-assessment], fill in the form, and then download the completed form as a PDF. Follow the instructions in the PDF before continuing. For example, if you see "Please download and save this PDF and upload it with your research application", then you can continue to upload this form with your application. However, **if the form asks you to contact your research office, then you need to get in touch with the [Research Compliance Team][contact-drei] to complete a more detailed compliance assessment, which you would then upload with your application**. Note in any case, you will also need to email the [Research Compliance Team][contact-drei] a copy of your completed Compliance Assessment form together with details of which application this is, e.g. Isambard AI or 3.
-    - A [completed Project Team Information form][project-team-form]. Download the form from [the link][project-team-form], fill in the form, and then upload the completed form with your application.
+- Information classification: You'll need to state whether your project involves confidential, sensitive or GDPR-protected information. If this is the case, please seek advice from [BriCS support][brics-support] before submitting your application.
 
-With these details, you can complete your application at [allocate.isambard.ac.uk][allocate-isambard]. More detailed instructions on how to use the allocation system are [provided below](#how-to-complete-your-application).
-
-
-## Using BriCS services for teaching purposes
-
-More instructions on how to apply for time for teaching purposes will be published in due course. 
-
+### Step 4: 
 
 ## Complete your application now
 
