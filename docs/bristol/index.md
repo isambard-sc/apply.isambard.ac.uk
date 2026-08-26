@@ -81,12 +81,12 @@ Applications for a research project account on Isambard-AI, Isambard 3 or BlueCr
 - Project name: a short name for your research project
 - Project summary: a brief (2–3 paragraph) overview of your project, written for a general audience. This will be visible to other BriCS users.
 - Project description: 3–4 paragraphs outlining the specific research you'll undertake using BriCS's advanced compute resources. 
-- You need to check a checkbox to confirm that your project is non-commercial / research only. If your project is commercial, you should seek advice from the [HPC Allocation and Compliance Committee][hacc-email]. 
-- Information classification: You'll need to state whether your project involves confidential, sensitive or GDPR-protected information. If this is the case, please seek advice from [BriCS support][brics-support] before submitting your application.
+- Project partners: You need to state if your project is non-commercial/research only. If your project is commercial, you should seek advice from the [HPC Allocation and Compliance Committee][hacc-email]. 
+- Information classification: You need to state if your project involves confidential, sensitive or GDPR-protected information. If this is the case, please seek advice from [BriCS support][brics-support] before submitting your application.
 
 ### Step 4: 
 
-## Complete your application now
+**Complete your application now**
 
 Navigate to [allocate.isambard.ac.uk][allocate-isambard] and click "Click here to login".
 
@@ -128,16 +128,11 @@ Fill in the details requested, i.e.
 
 ![Screenshot showing completed application page](images/application_details2.png){ style="width:100%;max-width:600px;height:auto"}
 
-Note that the project duration is fixed at 365 days. You will be able to apply to extend your project during the its last month if you need more time.
+Note that the project duration is fixed at 1 year (365 days). You can [apply to extend your project](https://forms.cloud.microsoft/e/Wp5SgwLpQx) if you need more time.
 
 You can click the "Save as draft" button at any time to save your progress, and "Delete" if you want to delete the application and start again.
 
-Next, you need to upload the two forms that you completed earlier:
-
-- A [completed Compliance Assessment form][compliance-assessment]. Navigate to [the link][compliance-assessment], fill in the form, and then download the completed form as a PDF. Follow the instructions in the PDF before continuing. For example, if you see "Please download and save this PDF and upload it with your research application", then you can continue to upload this form with your application. However, **if the form asks you to contact your research office, then you need to get in touch with the [Research Compliance Team][contact-drei] to complete a more detailed compliance assessment, which you would then upload with your application**. Note in any case, you will also need to email the [Research Compliance Team][contact-drei] a copy of your completed Compliance Assessment form together with details of which application this is, e.g. Isambard AI or 3.
-- A [completed Project Team Information form][project-team-form]. Download the form from [the link][project-team-form], fill in the form, and then upload the completed form with your application.
-
-Do this by clicking on the "Click to upload" button...
+Next, you need to upload the the required forms (see above for details). Do this by clicking on the "Click to upload" button...
 
 ![Screenshot showing upload button](images/upload2.png){ style="width:100%;max-width:600px;height:auto"}
 
