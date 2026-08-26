@@ -66,9 +66,9 @@ Full details of how node hours accounting works on BriCS services are provided i
     
 ### Step 2: 
 
-**NB**: Alongside the relevant compliance forms, you need to attach this forms to your application before submitting:
+**NB**: Alongside the relevant compliance forms, you need to attach this form to your application before submitting:
 
-- The [Project Team Information form][project-team-form]
+- [Project Team Information form][project-team-form]
 
 ### Step 3: 
 
