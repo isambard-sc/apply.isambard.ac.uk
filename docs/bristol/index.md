@@ -53,7 +53,7 @@ Full details of how node hours accounting works on BriCS services are provided i
 !!! warning "You must obtain compliance approval before submitting your application"
     
     - If you are requesting access to Isambard-AI or Isambard 3, complete the **[Compliance Assessment form][compliance-assessment]**. 
-    - If you are requesting access to BlueCrystal 5, complete the University of Bristol [Research Project Compliance Tool](https://apps.powerapps.com/play/e/default-b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b/a/945bbb5c-02b5-4605-a597-a108a8a432d3?tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b&source=sharebutton&sourcetime=1773318140178). 
+    - If you are requesting access to BlueCrystal 5, complete the University of Bristol **[Research Project Compliance Tool](https://apps.powerapps.com/play/e/default-b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b/a/945bbb5c-02b5-4605-a597-a108a8a432d3?tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b&source=sharebutton&sourcetime=1773318140178)**. 
 
     
 
