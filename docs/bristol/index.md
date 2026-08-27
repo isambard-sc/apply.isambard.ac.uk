@@ -15,7 +15,7 @@ Eligibility criteria
   
 - Postdoctoral researchers are eligible to be Co-Lead (CL) but not PL.  
   
-- Honorary title holders, visiting academics, and postgraduate and undergraduate students can be added as users of a research project account but are not eligible to be a PL or CL. Staff members (e.g. supervisors) may apply on behalf of a student-led project, such as a PhD.
+- Honorary title holders, visiting academics, and postgraduate and undergraduate students can be added as users of a research project account but are not eligible to be a PL or CL. Staff members (e.g. supervisors) may submit applications for research projects that are led by students. 
   
 An applicant's eligibility to be Project Lead or Co-Lead is checked as part of the account application review.
 
