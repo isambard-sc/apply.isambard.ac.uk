@@ -15,7 +15,7 @@ Eligibility criteria
   
 - Postdoctoral researchers are eligible to be Co-Lead but not Project Lead.  
   
-- Honorary title holders, visiting academics, staff in teaching support roles, and postgraduate and undergraduate students can be added as users of a research project account but are not eligible to be a Project Lead or Co-Lead. Staff members (e.g. supervisors) may submit applications for research projects that are led by students. 
+- Honorary title holders, visiting academics, staff in [teaching support roles](https://www.bristol.ac.uk/hr/tsr/tsr-descriptors-summary.html), and postgraduate and undergraduate students can be added as users of a research project account but are not eligible to be a Project Lead or Co-Lead. Staff members (e.g. supervisors) may submit applications for research projects that are led by students. 
   
 An applicant's eligibility to be Project Lead or Co-Lead is checked as part of the account application review.
 
