@@ -13,7 +13,7 @@ Eligibility criteria
 
 - Research fellows employed by the University are eligible to be Project Lead. Non-employed fellows cannot act as Project Lead.
   
-- Postdoctoral researchers are eligible to be Co-Lead but not Project Lead.  
+- Postdoctoral researchers, such as Research Associates, are eligible to be Co-Lead but not Project Lead.  
   
 - Honorary title holders, visiting academics, staff in [teaching support roles](https://www.bristol.ac.uk/hr/tsr/tsr-descriptors-summary.html), and postgraduate and undergraduate students can be added as users of a research project account but are not eligible to be a Project Lead or Co-Lead. Staff members (e.g. supervisors) may submit applications for research projects that are led by students. 
   
