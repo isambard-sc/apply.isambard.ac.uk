@@ -74,8 +74,6 @@ Full details of how node hours accounting works on BriCS services are provided i
 
 **Applying for a research project account**
 
-[Apply now for a research project account](https://allocate.isambard.ac.uk/calls/a597f0c56d6649848cdaee694a2f550c/?tab=description) on Isambard-AI, Isambard 3 or BlueCrystal 5. New research accounts are typically set up within one week.  
-
 ### Information you need to provide when applying for an account
 
 - Project name: a short name for your research project
@@ -87,6 +85,13 @@ Full details of how node hours accounting works on BriCS services are provided i
 ### Step 4: 
 
 **Complete your application now**
+
+New research accounts are typically set up within one week. 
+
+[Apply now for a research project account](https://allocate.isambard.ac.uk/calls/a597f0c56d6649848cdaee694a2f550c/?tab=description) on Isambard-AI, Isambard 3 or BlueCrystal 5. 
+
+
+### Step by step overview
 
 Navigate to [allocate.isambard.ac.uk][allocate-isambard] and click "Click here to login".
 
