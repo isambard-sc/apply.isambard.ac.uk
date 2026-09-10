@@ -7,19 +7,27 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ### Open a research project account on Isambard-AI, Isambard 3 or BlueCrystal 5
 
-Eligibility criteria 
+THIS SERVICE IS ONLY OPEN TO UNIVERSITY OF BRISTOL STAFF
 
-**Isambard-AI and Isambard 3**: Most University of Bristol staff are eligible to act as Project Lead for an Isambard-AI or Isambard 3 research project. 
 
-- Research fellows employed by the University are eligible to be Project Lead. Non-employed fellows cannot act as Project Lead.
+
+**Isambard-AI and Isambard 3**
+
+Most University of Bristol staff are eligible to open a high-performance computing research project accounts and act as the **Project Lead**.  
+
+- **Research fellows** employed by the University are eligible to be Project Lead. Fellows who are not employed by the University are not eligible to be Project Lead.
   
-- Postdoctoral researchers, such as Research Associates, are eligible to be Co-Lead but not Project Lead.  
+- **Postdoctoral researchers**, including Research Associates, my act as Co-Lead but are not eligible to be Project Lead.  
   
-- Honorary title holders, visiting academics, staff in [teaching support roles](https://www.bristol.ac.uk/hr/tsr/tsr-descriptors-summary.html), and postgraduate and undergraduate students can be added as users of a research project account but are not eligible to be a Project Lead or Co-Lead. Staff members (e.g. supervisors) may submit applications for research projects that are led by students. 
+- **Honorary title holders, visiting academics, staff in [teaching support roles](https://www.bristol.ac.uk/hr/tsr/tsr-descriptors-summary.html), and postgraduate and undergraduate students** can be added as users of a research project account. However, they are not eligible to act as Project Lead or Co-Lead.
+- University staff members, such as supervisors, may submit applications on behalf of research projects led by students.  
   
+
+**BlueCrystal 5**
+
+The environment is open to a small number of Schools. You can apply for an account if your School has access and you meet the eligibility criteria to be Project Lead for a research project account (see above).   
+
 An applicant's eligibility to be Project Lead or Co-Lead is checked as part of the account application review.
-
-**BlueCrystal 5**: The environment is open to a small number of Schools. You can apply for an account if your School has access and you meet the general Project Lead eligibility criteria.  
  
 ## Important information before you apply 
 
