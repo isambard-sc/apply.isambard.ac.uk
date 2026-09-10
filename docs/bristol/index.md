@@ -13,14 +13,14 @@ THIS SERVICE IS ONLY OPEN TO UNIVERSITY OF BRISTOL STAFF
 
 **Isambard-AI and Isambard 3**
 
-Most University of Bristol staff are eligible to open a high-performance computing research project account and act as the **Project Lead**.  
+Eligible University of Bristol staff may open a high-performance computing research project account and act as the **Project Lead**.  
 
 - **Research fellows** who are not employed by the University are not eligible to be Project Lead.
   
-- **Postdoctoral researchers**, including Research Associates, my act as Co-Lead but are not eligible to be Project Lead.  
+- **Postdoctoral researchers**, including Research Associates, may act as Co-Lead but are not eligible to be Project Lead.  
   
-- **Honorary title holders, visiting academics, staff in [teaching support roles](https://www.bristol.ac.uk/hr/tsr/tsr-descriptors-summary.html), and postgraduate and undergraduate students** can be added as users of a research project account. However, they are not eligible to act as Project Lead or Co-Lead.
-- University staff members, such as supervisors, may submit applications on behalf of research projects led by students.  
+- **Honorary title holders, visiting academics, staff in [teaching support roles](https://www.bristol.ac.uk/hr/tsr/tsr-descriptors-summary.html), and postgraduate and undergraduate students** may be added as users of a research project account. However, they are not eligible to act as Project Lead or Co-Lead.
+- University staff members, such as supervisors, may act as Project Leads for research projects primarily conducted by students.  
   
 
 **BlueCrystal 5**
