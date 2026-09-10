@@ -13,7 +13,7 @@ THIS SERVICE IS ONLY OPEN TO UNIVERSITY OF BRISTOL STAFF
 
 **Isambard-AI and Isambard 3**
 
-Most University of Bristol staff are eligible to open a high-performance computing research project accounts and act as the **Project Lead**.  
+Most University of Bristol staff are eligible to open a high-performance computing research project account and act as the **Project Lead**.  
 
 - **Research fellows** employed by the University are eligible to be Project Lead. Fellows who are not employed by the University are not eligible to be Project Lead.
   
