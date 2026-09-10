@@ -15,7 +15,7 @@ THIS SERVICE IS ONLY OPEN TO UNIVERSITY OF BRISTOL STAFF
 
 Most University of Bristol staff are eligible to open a high-performance computing research project account and act as the **Project Lead**.  
 
-- **Research fellows** employed by the University are eligible to be Project Lead. Fellows who are not employed by the University are not eligible to be Project Lead.
+- **Research fellows** who are not employed by the University are not eligible to be Project Lead.
   
 - **Postdoctoral researchers**, including Research Associates, my act as Co-Lead but are not eligible to be Project Lead.  
   
