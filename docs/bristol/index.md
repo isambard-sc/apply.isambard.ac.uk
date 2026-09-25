@@ -48,8 +48,8 @@ Project Leads or Co-Leads can:
 
 | Service       | Default allocation | Top-up allocation | One-off allocation |
 |---------------|--------------------|-------------------|--------------------|
-| Isambard-AI   | 1,000 NHR   | 3 x 1,000 NHR | Up to 5,000 NHR    |
-| Isambard 3    | 1,000 NHR   | 3 x 1,000 NHR | Up to 5,000 NHR    |
+| Isambard-AI   | 1,000 NHR   | 3 x 1,000 NHR | Up to 3,000 NHR    |
+| Isambard 3    | 1,000 NHR   | 3 x 1,000 NHR | Up to 3,000 NHR    |
 | BlueCrystal 5 | 2,000 NHR   | 3 x 1,000 NHR | Up to 10,000 NHR   |
 
 
