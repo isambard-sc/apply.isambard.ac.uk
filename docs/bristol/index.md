@@ -41,16 +41,16 @@ An applicant's eligibility to be Project Lead or Co-Lead is checked as part of t
 
 Project Leads or Co-Leads can: 
 
-- [Request a 1,000 NHR Top-up](https://forms.cloud.microsoft/e/Wp5SgwLpQx), valid for the duration of the project (max 3 requests per project, per year), or
+- [Request a 500 NHR Top-up](https://forms.cloud.microsoft/e/Wp5SgwLpQx), valid for the duration of the project (max 5 requests per project, per year), or
 
 - [Request a One-off NHR allocation](https://forms.cloud.microsoft/e/Wp5SgwLpQx), valid for 31 days from the date of allocation. You can request further One-off allocations once you've used your node hours or they've expired. One-off NHR are allocated on a first come, first served basis, when spare compute is available on the requested environment.
 
 
 | Service       | Default allocation | Top-up allocation | One-off allocation |
 |---------------|--------------------|-------------------|--------------------|
-| Isambard-AI   | 1,000 NHR   | 3 x 1,000 NHR | Up to 3,000 NHR    |
-| Isambard 3    | 1,000 NHR   | 3 x 1,000 NHR | Up to 3,000 NHR    |
-| BlueCrystal 5 | 2,000 NHR   | 3 x 1,000 NHR | Up to 10,000 NHR   |
+| Isambard-AI   | 1,000 NHR   | 5 x 500 NHR | Up to 1,000 NHR    |
+| Isambard 3    | 1,000 NHR   | 5 x 500 NHR | Up to 1,000 NHR    |
+| BlueCrystal 5 | 5,000 NHR   | 3 x 5,000 NHR | Up to 10,000 NHR   |
 
 
 Full details of how node hours accounting works on BriCS services are provided in the [BriCS accounting page][brics-accounting].
