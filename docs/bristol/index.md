@@ -172,6 +172,9 @@ Now - optionally - you can provide further information about who you want to add
 
 ![Screenshot showing the (redacted) Project team section](images/team.png){ style="width:100%;max-width:600px;height:auto"}
 
+
+## Project Team Roles
+
 You will be listed as the "Proposal Lead" automatically, and cannot remove yourself from this role. However, you can add other team members in any of the following roles:
 
 1. Proposal Lead - this is someone who has full power over the proposal, and will also have full power over any project that is awarded if this proposal is successful. They can edit everything, can invite other people in any role, and can also submit the proposal. If awarded, they will become a "Project Lead" or "PI" on the project.
