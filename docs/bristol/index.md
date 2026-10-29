@@ -50,7 +50,7 @@ Project Leads or Co-Leads can:
 |---------------|--------------------|-------------------|--------------------|
 | Isambard-AI   | 1,000 NHR   | 5 x 500 NHR | Up to 1,000 NHR    |
 | Isambard 3    | 1,000 NHR   | 5 x 500 NHR | Up to 1,000 NHR    |
-| BlueCrystal 5 | 5,000 NHR   | 3 x 5,000 NHR | Up to 10,000 NHR   |
+| BlueCrystal 5 | 5,000 NHR   | 3 x 10,000 NHR | Up to 10,000 NHR   |
 
 
 Full details of how node hours accounting works on BriCS services are provided in the [BriCS accounting page][brics-accounting].
