@@ -219,6 +219,12 @@ Note that one project per resource requested will be created. For example, if yo
 
 Please contact the [HPC Allocation and Compliance Committee][hacc-email] if you have any questions about this process.
 
+## Research Grant Costings for University of Bristol Allocations
+
+As a general rule, there is no charge for accessing the UoB allocations for Isambard-AI, Isambard 3 or BlueCrystal 5- these are no longer costed individually into research grants. However, please consult your [local costing specialist][costing-spec] for definitive advice.
+
+Please note there may be costing consideration for other services such as the RDSF ([email][rdsf-email]).
+
 [uob-rolling-call]: https://allocate.isambard.ac.uk/calls/a597f0c56d6649848cdaee694a2f550c/
 [brics-accounting]: https://docs.isambard.ac.uk/user-documentation/guides/accounting/
 [brics-support]:  mailto:brics-support@bristol.ac.uk/
@@ -230,3 +236,5 @@ Please contact the [HPC Allocation and Compliance Committee][hacc-email] if you 
 [call-page]: https://allocate.isambard.ac.uk/calls-for-proposals/
 [hacc]: https://uob.sharepoint.com/sites/dri/SitePages/HACC.aspx
 [hacc-email]: mailto:hacc-committee@bristol.ac.uk
+[costing-spec]: https://uob.sharepoint.com/sites/finance-services/SitePages/research-centre-pre-award.aspx#costing-specialists
+[rdsf-email]: mailto:rdsf-help@bristol.ac.uk
