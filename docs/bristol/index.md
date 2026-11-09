@@ -34,6 +34,7 @@ An applicant's eligibility to be Project Lead or Co-Lead is checked as part of t
 - Research project accounts have a 1-year duration but can renewed for a further year during the final month of the account, if required. [Request account renewal](https://forms.cloud.microsoft/e/Wp5SgwLpQx). Renewal requests are typically granted within a few days.  
 - You can open a research project account for any type of research activity, including exploratory research, idea testing and post graduate research projects.
 - One project account per research activity: Your project account **must only** be used for the research activities listed in your application. If, at a later stage, you wish to undertake additional research that falls outside the approved scope, you must apply for a separate project account so these activities can be reviewed by Research Compliance.
+- As a general rule, there is no charge for using the University’s supercomputers and these resources no longer need to be costed separately within research grants. However, please contact [your faculty's costing specialist](https://uob.sharepoint.com/sites/finance-services/SitePages/research-centre-pre-award.aspx#costing-specialists), who is best placed to support you with funder and grant specific costing advice.  
 
 **Node hours allocations for research projects**
 
