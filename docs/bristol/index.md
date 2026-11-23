@@ -26,6 +26,7 @@ Eligible University of Bristol staff may open a high-performance computing resea
 **BlueCrystal 5**
 
 BlueCrystal 5 is currently open to a limited number of users. You can apply for an account if you meet the eligibility criteria to be Project Lead for a research project account (see above) and either:
+
 - your School has access, or
 - you have been invited to onboard onto BlueCrystal 5. 
 
