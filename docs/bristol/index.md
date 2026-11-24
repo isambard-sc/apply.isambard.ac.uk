@@ -37,6 +37,7 @@ An applicant's eligibility to be Project Lead or Co-Lead is checked as part of t
 
 - If you are applying for an Isambard-AI research project account, please ensure you read the [Contractual and Compliance 
 Requirements](https://uob.sharepoint.com/:b:/r/sites/dri/Shared%20Documents/HACC/Contractual%20and%20Compliance%20Guidance%20for%20Use%20of%20Isambard-AI%20Nov%202026.pdf?d=w3aa689395514496fb93dd4d1470c438d&csf=1&web=1&e=BlRDr4) which provide legal guidance for Project Leads.
+- Each Project Lead can hold up to five research accounts per environment. To hold more, you need approval from the HPC Allocation and Compliance Committee (HACC) at [hacc-committee@bristol.ac.uk](mailto:hacc-committee@bristol.ac.uk).
 - Research project accounts have a 1-year duration but can renewed for a further year during the final month of the account, if required. [Request account renewal](https://forms.cloud.microsoft/e/Wp5SgwLpQx). Renewal requests are typically granted within a few days.  
 - You can open a research project account for any type of research activity, including basic research, applied research, experimental development and PhD research projects.
 - One project account per research activity: Your project account **must only** be used for the research activities listed in your application. If, at a later stage, you wish to undertake additional research that falls outside the approved scope, you must apply for a separate project account so these activities can be reviewed by Research Compliance.
