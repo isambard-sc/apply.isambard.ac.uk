@@ -17,7 +17,7 @@ Eligible University of Bristol staff may open a high-performance computing resea
 
 - **Research fellows** who are not employed by the University are not eligible to be Project Lead.
   
-- **Postdoctoral researchers**, including Research Associates, may act as Co-Lead but are not eligible to be Project Lead.  
+- **Postdoctoral researchers** at the University, including Research Associates, may act as Co-Lead but are not eligible to be Project Lead.  
   
 - **Honorary title holders, visiting academics, staff in [teaching support roles](https://www.bristol.ac.uk/hr/tsr/tsr-descriptors-summary.html), and postgraduate and undergraduate students** may be added as users of a research project account. However, they are not eligible to act as Project Lead or Co-Lead.
 - University staff members, such as supervisors, may act as Project Leads for research projects primarily conducted by students.  
